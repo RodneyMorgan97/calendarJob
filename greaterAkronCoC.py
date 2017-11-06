@@ -21,4 +21,4 @@ def getJSON():
 	description =[]
 	date = []
 
-	print event[0].a.nextSibling
+	print event[0]
