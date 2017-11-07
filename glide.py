@@ -23,8 +23,6 @@ def getJSON():
 	description = soup.find_all("div", {'class' : 'eb-description-details span7'})
 	date = soup.find_all("div" , {'class' : 'span5'})
 
-	print 
-
 	toJSON = []
 	 
 	for i in range (len(event)):

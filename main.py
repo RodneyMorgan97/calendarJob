@@ -9,7 +9,7 @@ import ecdi
 import greaterAkronCoC
 import glide
 import goodwill
-
+import jumpstart
 
 
 #print akronSBDC.getJSON()
@@ -20,4 +20,5 @@ import goodwill
 #print ecdi.getJSONToledo()
 #print goodwill.getJSON()
 #greaterAkronCoC.getJSON() #still needs done
-#glide.getJSON()
+#print glide.getJSON()
+print jumpstart.getJSON()
