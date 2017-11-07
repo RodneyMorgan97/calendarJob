@@ -21,15 +21,21 @@ def getJSON():
 	title = soup.find_all("span" , {'itemprop' : 'name'})
 	event = soup.find_all("div", {'class' : 'eb-category-1 eb-event clearfix'})
 	description = soup.find_all("div", {'class' : 'eb-description-details span7'})
+	date = soup.find_all("div" , {'class' : 'span5'})
+
+	print 
 
 	toJSON = []
 	 
 	for i in range (len(event)):
+		thisDate = date[i].tbody.tr.td.findNext('td').get_text().replace('\t', '').replace('\r','').replace('\n', '')
+		thisDate = helperFunctions.monthToNum(thisDate[ : thisDate.find(' ')]) + '-' + thisDate[thisDate.find(' ') + 1 : thisDate.find(',')]
 		toJSON.append({
 	 					'website':'http://www.glideit.org/news-and-events/events',
 	 				  	'title' : event[i].div.h2.a.span.get_text(),
-	 				  	'location' : '',
-	 				  	'description' : description[0].get_text(),
-	 				  	'date' : '',
+	 				  	'location' : date[0].tbody.findNext('tr').findNext('tr').findNext('tr').findNext('td').findNext('td').get_text().replace('\t','').replace('\r', '').replace('\n', ''),
+	 				  	'description' : description[i].get_text().replace('\n', ''),
+	 				  	'date' : thisDate,
 	 				  	'time' : ''
 	 				  })
+	return json.dumps(toJSON)
