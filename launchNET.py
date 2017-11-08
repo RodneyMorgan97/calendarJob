@@ -34,6 +34,10 @@ def getJSON():
 		thisDate = helperFunctions.monthToNum(thisDate[:3]) + '-' + thisDate[3:]
 		thisDate= thisDate.replace('Mul-tipleDate', 'Multiple Dates')
 		thisTime = dateAndTime[dateAndTime.find('\n') + 1 : ].lower().replace('multipledates', '')
+
+
+
+		
 		
 		toJSON.append({
 	 					'website':'www.eventbrite.com/o/launchnet-kent-state-university-4732963441',

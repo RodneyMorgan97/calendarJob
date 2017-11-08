@@ -28,3 +28,7 @@ def monthToNum(shortMonth):
 		return '12'
 	else:
 		return shortMonth
+
+
+def removeDayOfWeek(date):
+	return date.replace('Monday,', '').replace('Tuesday,' , '').replace('Wednesday,', '').replace('Thursday,', '').replace('Friday,', '').replace('Saturday,' , '').replace('Sunday,' , '')
