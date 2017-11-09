@@ -12,7 +12,7 @@ import goodwill
 import jumpstart
 import launchNET
 import ksuCCPD
-
+import glyphixStudio
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
 #print ecdi.getJSONAkron()
@@ -25,3 +25,4 @@ import ksuCCPD
 #print jumpstart.getJSON()
 #print launchNET.getJSON()
 #print ksuCCPD.getJSON()
+glyphixStudio.getJSON()
