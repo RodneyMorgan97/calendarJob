@@ -13,6 +13,9 @@ import jumpstart
 import launchNET
 import ksuCCPD
 import glyphixStudio
+import magnet
+
+
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
 #print ecdi.getJSONAkron()
@@ -25,4 +28,5 @@ import glyphixStudio
 #print jumpstart.getJSON()
 #print launchNET.getJSON()
 #print ksuCCPD.getJSON()
-glyphixStudio.getJSON()
+#print glyphixStudio.getJSON()
+#print magnet.getJSON()
