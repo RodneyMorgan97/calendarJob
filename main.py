@@ -14,7 +14,8 @@ import ksuCCPD
 import glyphixStudio
 import magnet
 import ODSA
-
+import aCloserLook
+import noche
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
 #print ecdi.getJSONAkron()
@@ -30,3 +31,5 @@ import ODSA
 #print glyphixStudio.getJSON()
 #print magnet.getJSON()
 #print DSA.getJSON()
+#print aCloserLook.getJSON() #still needs done
+#print noche.getJSON()
