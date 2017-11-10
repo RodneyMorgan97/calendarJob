@@ -20,10 +20,9 @@ import noche
 import iCorps
 import akronWomenInTech
 import womensNetworkNEO
-
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
-#ohioMeansJobs.getJSON() #still needs done
+#print ohioMeansJobs.getJSON()
 #print ecdi.getJSONAkron()
 #print ecdi.getJSONColumbus()
 #print ecdi.getJSONCleveland()

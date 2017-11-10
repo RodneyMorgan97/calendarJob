@@ -19,4 +19,29 @@ def getJSON():
 	soup = BeautifulSoup(page, "html.parser")
 	script = soup.find_all("script" , {'type' : 'application/ld+json'})
 	d = ast.literal_eval(script[2].get_text())
-	print d[0]
+
+	toJSON = []
+
+	for i in range(len(d)):
+		date = d[i]['startDate']
+		time = helperFunctions.militaryToStandard(date[11:16])
+		description = d[i]['description']
+		try:
+			location = d[i]['location']['address']['streetAddress'] + ', ' + d[i]['location']['address']['addressLocality'] + ', ' + d[i]['location']['address']['addressRegion']
+		except:
+			location = '' 
+
+		name = d[i]['name']
+		
+		date = date[5:10]
+
+		toJSON.append({
+	 					'website':'https://www.summitomj.org/events',
+	 				  	'title' : name,
+	 				  	'location' : location,
+	 				  	'description' : description,
+	 				  	'date' :  date,
+	 				  	'time' : time
+	 				  })
+
+	return json.dumps(toJSON)
