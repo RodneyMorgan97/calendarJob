@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup
 import urllib2
 import json
 import helperFunctions
+from icalendar import Calendar, Event
+from datetime import datetime
+from pytz import UTC # timezone
 
 
 def getJSON():
@@ -20,15 +23,24 @@ def getJSON():
 
 	toJSON = []
 
-	for i in range(len(title)):
-		toJSON.append({
+	g = open('RadSchedulerExport.ics','rb')
+	gcal = Calendar.from_ical(g.read())
+	for component in gcal.walk():
+	    if component.name == "VEVENT":
+	    	date = component.get('DTSTART')
+
+	    	toJSON.append({
 	 					'website':'www.kent.edu/yourtrainingpartner/calendar-program-offerings',
-	 				  	'title' : title[i].get_text().strip(),
-	 				  	'location' : location[i].get_text().strip(),
-	 				  	'description' : '',
-	 				  	'date' : thisDate,
-	 				  	'time' : thisTime
+	 				  	'title' : component.get('SUMMARY'),
+	 				  	'location' : '',
+	 				  	'description' : component.get('DESCRIPTION'),
+	 				  	'date' : '',
+	 				  	'time' : ''
 	 				  })
-	return toJSON
+
+	g.close()
+
+	
+	return
 
 	

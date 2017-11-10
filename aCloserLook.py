@@ -28,7 +28,12 @@ def getJSON():
 		for tR in tBody:
 			dateAndTime = tR.td.get_text()
 			title = tR.td.next_sibling.next_sibling.a.get_text()
-			location = tR.td.next_sibling.next_sibling.i.get_text()
+			try:
+				location = tR.td.next_sibling.next_sibling.i.get_text()
+			except:
+				location = ''
+				
+			print location
 			dateAndTime = dateAndTime.strip()
 			date = dateAndTime[:5].replace('/', '-')
 			time = dateAndTime[dateAndTime.find('\n') + 1 : ].strip()

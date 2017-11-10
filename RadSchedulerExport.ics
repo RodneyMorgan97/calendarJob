@@ -1,0 +1,3237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Telerik Inc.//NONSGML RadScheduler//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20100728T050000Z
+DTEND:20100809T050000Z
+UID:20171110T055422Z-52
+DTSTAMP:20171110T055422Z
+SUMMARY:State Fair
+DESCRIPTION:Ohio State Fair\n\nhttp://www.ohiostatefair.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100904T050000Z
+DTEND:20100907T050000Z
+UID:20171110T055422Z-55
+DTSTAMP:20171110T055422Z
+SUMMARY:Cleveland National Air Show
+DESCRIPTION:Burke Lakefront Airport\nFeaturing the U.S. Navy Blue Angels\n\nwww.clevelandairshow.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100904T050000Z
+DTEND:20101018T050000Z
+UID:20171110T055422Z-56
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Renaissance Festival
+DESCRIPTION:HARVEYSBURG Ohio Saturdays & Sundays PLUS Labor Day September 6 - Open 10:30AM - 6:00PM\nhttp://www.renfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100905T170000Z
+DTEND:20100906T040000Z
+UID:20171110T055422Z-57
+DTSTAMP:20171110T055422Z
+SUMMARY:Cincinnati Riverfest
+DESCRIPTION:Noon-11pm, fireworks, food and fun\nwww.webn.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100909T223000Z
+DTEND:20100910T000000Z
+UID:20171110T055422Z-58
+DTSTAMP:20171110T055422Z
+SUMMARY:EPIC Social! Social! Social!
+DESCRIPTION:Toledo Chamber of Commerce/ Young Professionals \nNetworking and appetizers\nhttp://www.toledochamber.com/CWT/External/WCPages/WCEvents/EventDetail.aspx?EventID=317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100913T130000Z
+DTEND:20100913T200000Z
+UID:20171110T055422Z-59
+DTSTAMP:20171110T055422Z
+SUMMARY:Toledo Regional Chamber of Commerce 2010 Annual Golf Outing
+DESCRIPTION:Presented by V&A Risk Services\nhttp://www.toledochamber.com/CWT/External/WCPages/WCEvents/EventDetail.aspx?EventID=356
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100914T163000Z
+DTEND:20100914T183000Z
+UID:20171110T055422Z-60
+DTSTAMP:20171110T055422Z
+SUMMARY:Business Training Institute- Update from Capital Hill: Labor and Employment Law Legislation
+DESCRIPTION:Youngstown/ Warren Regional Chamber Event, $30, Ciminero’s Banquet Centre, 123 North Main Street, Niles \nhttp://regionalchamber.com/memberresources/eventcalendar/events/sept14btilaborlawupdate.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100916T173000Z
+DTEND:20100917T000000Z
+UID:20171110T055422Z-61
+DTSTAMP:20171110T055422Z
+SUMMARY:Columbus 2010 Young Professionals: Career adn Professional Development Conference
+DESCRIPTION:Arena Grand Theater, Full Conference $49.95\nhttp://makeaninvestmentinyou.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100918T000000Z
+DTEND:20100920T020000Z
+UID:20171110T055422Z-62
+DTSTAMP:20171110T055422Z
+SUMMARY:"The Wizard of Oz"
+DESCRIPTION:Mansfield Playhouse\nhttp://mansfieldplayhouse.com/shows.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100911T000000Z
+DTEND:20100913T020000Z
+UID:20171110T055422Z-63
+DTSTAMP:20171110T055422Z
+SUMMARY:"The Wizard of Oz"
+DESCRIPTION:Mansfield Playhouse\nhttp://mansfieldplayhouse.com/shows.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100917T050000Z
+DTEND:20100920T050000Z
+UID:20171110T055422Z-64
+DTSTAMP:20171110T055422Z
+SUMMARY:Oktoberfest Zinzinnati USA
+DESCRIPTION:Starts at 12pm at Fountain Square\nhttp://www.oktoberfestzinzinnati.com/okt.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100925T170000Z
+DTEND:20100925T210000Z
+UID:20171110T055422Z-65
+DTSTAMP:20171110T055422Z
+SUMMARY:ystark! Battle of the Bags Cornhole Tournament
+DESCRIPTION: Young Professionals of Stark County, Pete's Grill and Pizza, 401 Cherry Ave., NE\nhttp://www.ystark.org/events/ystark-battle-of-the-bags
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100927T233000Z
+DTEND:20100928T020000Z
+UID:20171110T055422Z-66
+DTSTAMP:20171110T055422Z
+SUMMARY:Social Media Seminar
+DESCRIPTION:FREE! Located at Panera Bread\n4519 North High Street\nColumbus, OH \nhttp://www.bigfishnetworking.com/view-events.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101105T233000Z
+DTEND:20101106T040000Z
+UID:20171110T055422Z-67
+DTSTAMP:20171110T055422Z
+SUMMARY:Womankind's 35th Anniversary Gala
+DESCRIPTION:Ritz-Carlton\n1313 West 3rd Ave. \nCleveland, OH\n\nwww.womankindcleveland.com/events.html\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100922T163000Z
+DTEND:20100922T180000Z
+UID:20171110T055422Z-68
+DTSTAMP:20171110T055422Z
+SUMMARY:Innercircles for Women Networking Lunch: Creating Your Own Personal Brand
+DESCRIPTION:West Chester Conference Center\n9248 Princeton Glendale Road\n$20 advanced purchase\nTo register call: 513-874-0555\n\nwww.bizjournals.com/cincinnati/calendar/?op=event_details&listing_id=73541\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100915T233000Z
+DTEND:20100916T003000Z
+UID:20171110T055422Z-69
+DTSTAMP:20171110T055422Z
+SUMMARY:2010 Gentlemen of Style & Substance Awards
+DESCRIPTION: Saks Fifth Ave.\nCincinnati, OH\n513-357-2616\n\nhttp://www.cincinnatiusa.com/Calendar/event.asp?ProdID=120092\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101030T050000Z
+DTEND:20101101T050000Z
+UID:20171110T055422Z-70
+DTSTAMP:20171110T055422Z
+SUMMARY:Venison Chili Cookoff
+DESCRIPTION:Findley State Park\nWellington, OH\n440-647-5749\nPre-registration required\n\nhttp://www.findleystatepark.org/events.htm\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101030T050000Z
+DTEND:20101101T050000Z
+UID:20171110T055422Z-71
+DTSTAMP:20171110T055422Z
+SUMMARY:Haunted Hocking
+DESCRIPTION:Hocking Hills State Park\nLogan, OH\n740-385-6841\nPumpkin decorating, hayrides, trick-or-treat and movies\n\nhttp://www.dnr.state.oh.us/parks/parks/hocking/tabid/743/Default.aspx\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101107T180000Z
+DTEND:20101107T210000Z
+UID:20171110T055422Z-72
+DTSTAMP:20171110T055422Z
+SUMMARY:Cleveland Browns V. New England Patriots
+DESCRIPTION:Cleveland Brown Stadium\n\nhttp://www.clevelandbrowns.com/\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101024T170000Z
+DTEND:20101024T220000Z
+UID:20171110T055422Z-73
+DTSTAMP:20171110T055422Z
+SUMMARY:Cincinnati Chocolate Festival
+DESCRIPTION:Chocolate tastings, chef demos, kids activities, contests and raffles\n$5 tickets\n\nwww.cincinnatichocolatefestival.com\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101001T050000Z
+DTEND:20101003T050000Z
+UID:20171110T055422Z-74
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Swiss Festival
+DESCRIPTION:Swiss Village Corridor\nVillage of Sugarcreek\n\nhttp://www.villageofsugarcreek.com/ohioswissfest/\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101113T050000Z
+DTEND:20101122T050000Z
+UID:20171110T055422Z-75
+DTSTAMP:20171110T055422Z
+SUMMARY:Warthers Christmas Tree Festival
+DESCRIPTION:Warthers Museum\n331 Karl Ave. \nDover, OH\n\nwww.warthers.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101214T050000Z
+DTEND:20101217T050000Z
+UID:20171110T055422Z-76
+DTSTAMP:20171110T055422Z
+SUMMARY:Christmas at the Inn
+DESCRIPTION:Amish Door Village\n1210 Winesburg St.\nWilmot, OH\n888-264-7436\n$38\n\nwww.amishdoor.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100924T120000Z
+DTEND:20100924T140000Z
+UID:20171110T055422Z-77
+DTSTAMP:20171110T055422Z
+SUMMARY:September Breakfast With Business First
+DESCRIPTION:Grand Oaks Event and Business Center\nGrove City, OH\nNetworking event for Business Professionals\n\nhttp://columbus.bizjournals.com/columbus/event/28271?sid=922f65fbcb22ccaf8383ed94b30d1e1e\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101028T150000Z
+DTEND:20101028T213000Z
+UID:20171110T055422Z-78
+DTSTAMP:20171110T055422Z
+SUMMARY:The BioOhio Annual Conference "Innovation Roadshow"
+DESCRIPTION:OCCC Conference Center in Dublin, OH\n$90 for nonmembers\n\nwww.Bioohio.com/news/annual-conference.aspx\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101117T150000Z
+DTEND:20101117T213000Z
+UID:20171110T055422Z-79
+DTSTAMP:20171110T055422Z
+SUMMARY:The BioOhio Annual Conference "Innovation Roadshow"
+DESCRIPTION:The Manor House in Mason, OH\n$90 for nonmembers\n\nwww.bioohio.com/news/annual-conference.aspx\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101026T050000Z
+DTEND:20101030T050000Z
+UID:20171110T055422Z-80
+DTSTAMP:20171110T055422Z
+SUMMARY:SME Lean to Green Manufacturing Conference
+DESCRIPTION:Society of Manufacturing Engineers (SME)\nHyatt Regency, Columbus, OH\n\nhttp://208.2.151.177/cgi-bin/get-event.pl?--001981-000007-home--SME-\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101125T050000Z
+DTEND:20101126T050000Z
+UID:20171110T055422Z-81
+DTSTAMP:20171110T055422Z
+SUMMARY:Thanksgiving Day
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101125T130000Z
+DTEND:20101125T170000Z
+UID:20171110T055422Z-82
+DTSTAMP:20171110T055422Z
+SUMMARY:32nd Annual Turkey Trot
+DESCRIPTION:5 mile timed run/walk\n1 mile untimed run/walk\nMiamisbug, OH\nRace starts @ 8am. \n\nwww.orrrc.org/events/november/turkey-trot.html\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100903T160000Z
+DTEND:20100907T040000Z
+UID:20171110T055422Z-83
+DTSTAMP:20171110T055422Z
+SUMMARY:15th Annual Ohio Natural Gas Taste of Cleveland
+DESCRIPTION:Time Warner Cable Ampitheater at Tower City\nCleveland, OH\n440-247-2722\n\nhttp://www.zvents.com/cleveland-oh/events/show/112896005-ohio-natural-gas-taste-of-cleveland-15th-annual\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100917T050000Z
+DTEND:20100920T050000Z
+UID:20171110T055422Z-84
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Fish and Shrimp Festival 
+DESCRIPTION:Freshwater Farms of Ohio, 1 mile north fo Urbana\n937-652-3701\n\nhttp://fwfarms.com/fish_shrimp_festival_ohio.html\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101014T070000Z
+DTEND:20101015T000000Z
+UID:20171110T055422Z-85
+DTSTAMP:20171110T055422Z
+SUMMARY:Business Expo 2010
+DESCRIPTION:Don Umerley Civic Center, Rocky River, OH\nPremier Networking Event\n\nwww.rockyriverchamber.com\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100925T150000Z
+DTEND:20100925T200000Z
+UID:20171110T055422Z-86
+DTSTAMP:20171110T055422Z
+SUMMARY:Start Business Franchise and Enerprise Expo
+DESCRIPTION:Cuyahoga Valley Career Center, Brecksville OH\n\nwww.startbusinessexpo.com\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100920T050000Z
+DTEND:20100923T050000Z
+UID:20171110T055422Z-87
+DTSTAMP:20171110T055422Z
+SUMMARY:Polymer Program Solving Via Excellence in Analytical Sciences
+DESCRIPTION:Marriott- Courtyard\n25050 Sperry Drive\nWestlake, OH 44145\n\nhttp://innoplastsolutions.com/courses/2010/2010-Analytical_Brochure_USA.pdf\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100909T130000Z
+DTEND:20100909T220000Z
+UID:20171110T055422Z-88
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Valley Business Travel Asociation- 2010 Education Day
+DESCRIPTION:Millenium Hotel Cincinnati\n\nhttp://ovbta.org/meetinginfo.php?id=5\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100910T130000Z
+DTEND:20100910T153000Z
+UID:20171110T055422Z-89
+DTSTAMP:20171110T055422Z
+SUMMARY:Impact Manufacturing Forum
+DESCRIPTION:Registration begins at 7:30 a.m.\n*Free event\n\nAkron Fairlawn Hilton\n3180 W. Market Street \n\nhttp://www.bcgcompany.com/manufacturingimpact\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100910T050000Z
+DTEND:20100913T050000Z
+UID:20171110T055422Z-90
+DTSTAMP:20171110T055422Z
+SUMMARY:Best of Fafll Home Show
+DESCRIPTION:Ohio Expo Center\n717 E. 17th Ave.\nColumbus, OH\n\n\n\nhttp://www.dispatchevents.com/fallshow.php\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100911T204000Z
+DTEND:20100911T223000Z
+UID:20171110T055422Z-91
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio State v. Miami (Fla)
+DESCRIPTION:Ohio Stadium\n\nhttp://www.ohiostatebuckeyes.com/SportSelect.dbml?DB_OEM_ID=17300&SPID=10408&SPSID=87745\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100915T050000Z
+DTEND:20100917T050000Z
+UID:20171110T055422Z-92
+DTSTAMP:20171110T055422Z
+SUMMARY:2010 Ohio HR Conference
+DESCRIPTION:Kalahari Resort\nSandusky\n\nhttp://www.ohioshrm.org/hr_conf/program.cfm\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100916T230000Z
+DTEND:20100917T020000Z
+UID:20171110T055422Z-93
+DTSTAMP:20171110T055422Z
+SUMMARY:Becoming a Guerrilla Entrepreneur
+DESCRIPTION:The National CEO Leadership Institute Training Cen \n\n2234 S. Hamilton Rd\nSuite 102\nColumbus, OH 43232\n\nhttps://events.constantcontact.com/register/eventReg?oeidk=a07e2xvjbz1646c563f\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100918T050000Z
+DTEND:20100919T050000Z
+UID:20171110T055422Z-94
+DTSTAMP:20171110T055422Z
+SUMMARY:2010 Alzheimer's Association Memory Walk
+DESCRIPTION:Check in: 8:30am\n\nhttp://memorywalk2010.kintera.org/faf/home/default.asp?ievent=337681\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100919T140000Z
+DTEND:20100919T190000Z
+UID:20171110T055422Z-95
+DTSTAMP:20171110T055422Z
+SUMMARY:Kiwanis Fall Chicken BBQ
+DESCRIPTION:http://www.independencekiwanis.com/\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100921T123000Z
+DTEND:20100922T030000Z
+UID:20171110T055422Z-96
+DTSTAMP:20171110T055422Z
+SUMMARY:How to Buy or Sell a Business in this Economy
+DESCRIPTION:4125 Medina Rd\nAkron, OH 44333 \n\nhttp://eventful.com/akron/events/how-buy-sell-business-economy-/E0-001-033045790-4\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100923T130000Z
+DTEND:20100923T140000Z
+UID:20171110T055422Z-97
+DTSTAMP:20171110T055422Z
+SUMMARY:Family Violence Prevention Center Support Breakfast
+DESCRIPTION:Thursday, September 23, 2010, 8am-9pm \nHilton Garden Inn, Beavercreek, Ohio\nGuest Speaker: Henry Ford\n\n\nhttp://www.fvpcgc.org/\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100924T050000Z
+DTEND:20100927T050000Z
+UID:20171110T055422Z-98
+DTSTAMP:20171110T055422Z
+SUMMARY:Photography Workshop Season of the Good Light in Hocking Hills Ohio
+DESCRIPTION:Inn adn Spa at Cedar Falls\nLogan, OH\n\nhttp://ohiophoto.org/public_html/twodayphotoworkshops.html\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100923T130000Z
+DTEND:20100923T213000Z
+UID:20171110T055422Z-99
+DTSTAMP:20171110T055422Z
+SUMMARY:The Profit Factor
+DESCRIPTION:Free and open to the public\nStatewide tradeshow and networking event that includes buyers from state and federal government as well as private sector corporations, informative workshops on Bonding, Social Networking, Getting a 501C3, Credit Repair, Doing Business with the Government, and more.\n\nhttp://www.blackpagesohio.com/\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100910T190000Z
+DTEND:20100911T000000Z
+UID:20171110T055422Z-100
+DTSTAMP:20171110T055422Z
+SUMMARY:20th Anniversary of The State of Ohio and Saitama Prefecture (Japan) Sister-State Relationship
+DESCRIPTION:Contact: Ms. Elé Garcia \nGlobal Markets Division, Ohio Department of Development \n\n\n\nhttp://events.constantcontact.com/register/event?oeidk=a07e2zbwagwf6841d0e\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101019T120000Z
+DTEND:20101019T220000Z
+UID:20171110T055422Z-101
+DTSTAMP:20171110T055422Z
+SUMMARY:Hot Market Watch: Selling to Brazil, China & India
+DESCRIPTION:Location: Duke Energy Center (downtown Cincinnati)\n\nhttp://www.buyusa.gov/cincinnati/conference.html\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101020T150000Z
+DTEND:20101024T040000Z
+UID:20171110T055422Z-102
+DTSTAMP:20171110T055422Z
+SUMMARY:Circleville Pumpkin Show
+DESCRIPTION:Enjoy parades, contests and pumpkin-flavored delicacies. Downtown Circleville.\n\nwww.pumpkinshow.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101017T050000Z
+DTEND:20101020T050000Z
+UID:20171110T055422Z-103
+DTSTAMP:20171110T055422Z
+SUMMARY:Carroll County Antique Collectors Club Annual Show
+DESCRIPTION:Enjoy tractor pulls, a flea market and displaysof antique tractors. Carroll County Fairgrounds.\n\nwww.carrollcoutyantiqueclub.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101105T050000Z
+DTEND:20101107T050000Z
+UID:20171110T055422Z-104
+DTSTAMP:20171110T055422Z
+SUMMARY:Hearth Warming Holidays
+DESCRIPTION:The historic village will be lines with luminaries during this open-house event. Main and Miami streets, Waynesville.\n\nwww.waynesvilleohio.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101111T220000Z
+DTEND:20101112T010000Z
+UID:20171110T055422Z-105
+DTSTAMP:20171110T055422Z
+SUMMARY:Great Expectations Chocolate Walk
+DESCRIPTION:Guests receive a chocolate experience at each Dickens Village location. Wheeling Ave., Cambridge\n\nwww.dickensvictorianvillage.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101112T050000Z
+DTEND:20101114T050000Z
+UID:20171110T055422Z-106
+DTSTAMP:20171110T055422Z
+SUMMARY:Jungle Jim's International Wine Festival
+DESCRIPTION:Discover an international selection of more than 150,000 items from 75 countries. Oscar Event Center, 5440 Dixie Hwy., Fairfield. \n\nwww.junglejims.com/winefest\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101015T150000Z
+DTEND:20101015T200000Z
+UID:20171110T055422Z-108
+DTSTAMP:20171110T055422Z
+SUMMARY:Joint OTF Advisory Board and Commission Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101207T153000Z
+DTEND:20101207T200000Z
+UID:20171110T055422Z-109
+DTSTAMP:20171110T055422Z
+SUMMARY:Joint Ohio Third Frontier Advisory Board and Commission Meeting
+DESCRIPTION:Meeting will be held at:\nHoliday Inn, City Center\n175 East Town Street\nColumbus, OH 43215\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110217T160000Z
+DTEND:20110217T203000Z
+UID:20171110T055422Z-112
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission and Advisory Board Meeting
+DESCRIPTION:Meeting will be held at:\nHoliday Inn, City Center\n175 East Town Street\nColumbus, OH 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110428T153000Z
+DTEND:20110428T200000Z
+UID:20171110T055422Z-113
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board Meeting
+DESCRIPTION:Meeting will be held at:\nHoliday Inn, City Center\n175 East Town Street\nColumbus, OH 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110524T150000Z
+DTEND:20110524T210000Z
+UID:20171110T055422Z-114
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission and Advisory Board Meeting
+DESCRIPTION:Meeting will be held at:\nHoliday Inn, City Center\n175 East Town Street\nColumbus, OH 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110714T180000Z
+DTEND:20110714T203000Z
+UID:20171110T055422Z-115
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:Meeting will be held at 1275 Kinnear Road, Columbus, Ohio 43212
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101120T000000Z
+DTEND:20101120T020000Z
+UID:20171110T055422Z-116
+DTSTAMP:20171110T055422Z
+SUMMARY:Window Wonderland
+DESCRIPTION:Downtown Wooster, free\n330-262-6222\nReflections of the past are seen in all the storefront glass in a town where everything old is new again. Welcome to Wooster, Ohio’s wonderful Window Wonderland! The nostalgic evening transcends the historic northeast Ohio town into Christmas scenes from yesteryear. It all begins with the lighting of The Children’s Christmas Tree at 7:00 p.m. in Wooster’s public square amidst character walk-around figures strolling the streets along with a petting zoo and Herky the Clown. \n\nwww.mainstreetwooster.org\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110127T183000Z
+DTEND:20110127T220000Z
+UID:20171110T055422Z-117
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110406T203000Z
+DTEND:20110406T223000Z
+UID:20171110T055422Z-118
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110530T130000Z
+DTEND:20110530T220000Z
+UID:20171110T055422Z-129
+DTSTAMP:20171110T055422Z
+SUMMARY:Memorial Day
+DESCRIPTION:Memorial Day - ODOD Close
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110602T130000Z
+DTEND:20110602T220000Z
+UID:20171110T055422Z-130
+DTSTAMP:20171110T055422Z
+SUMMARY:Test Intranet Event
+DESCRIPTION:Test Intranet Event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110829T150000Z
+DTEND:20110829T210000Z
+UID:20171110T055422Z-131
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20111011T190000Z
+DTEND:20111011T220000Z
+UID:20171110T055422Z-132
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission and Advisory Board Meeting
+DESCRIPTION:Ohio Third Frontier  Commission and Advisory Board Meeting\nDate: October 11th , 2011\nTime: 2-5pm\nLocation: 2400 Olentangy River Rd\nColumbus, Ohio 43210\n\nhttp://fawcettcenter.com/page/home
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20111207T193000Z
+DTEND:20111207T210000Z
+UID:20171110T055422Z-134
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:Meeting will be held at The Ohio State University\nThe Biomedical Research Tower BT\nBuilding 112\n460 West 12th Ave.\nColumbus, OH 43210
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120222T150000Z
+DTEND:20120222T210000Z
+UID:20171110T055422Z-151
+DTSTAMP:20171110T055422Z
+SUMMARY:Third Frontier Advisory Board and Commission
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120314T150000Z
+DTEND:20120314T170000Z
+UID:20171110T055422Z-152
+DTSTAMP:20171110T055422Z
+SUMMARY:Third Frontier Advisory Board and Commission
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120425T150000Z
+DTEND:20120425T210000Z
+UID:20171110T055422Z-153
+DTSTAMP:20171110T055422Z
+SUMMARY:Third Frontier Advisory Board and Commission
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120126T180000Z
+DTEND:20120126T193000Z
+UID:20171110T055422Z-156
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Outreach Session
+DESCRIPTION:1315 Churchill Hubbard Road, #A\nYoungstown, Ohio 44505\n\nLGIF webpage: http://development.ohio.gov/Urban/LGIF.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120822T150000Z
+DTEND:20120822T210000Z
+UID:20171110T055422Z-158
+DTSTAMP:20171110T055422Z
+SUMMARY:Third Frontier Advisory Board and Commission Retreat
+DESCRIPTION:Deer Creek State Park, \n20635 State Park Road 20\nMt. Sterling, Ohio 43143\n\nhttp://development.ohio.gov/ohiothirdfrontier/documents/otf_retreat_agenda.pdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120124T140000Z
+DTEND:20120124T160000Z
+UID:20171110T055422Z-161
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Outreach Session
+DESCRIPTION:LGIF webpage: http://development.ohio.gov/Urban/LGIF.htm 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120124T180000Z
+DTEND:20120124T200000Z
+UID:20171110T055422Z-162
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Outreach Session
+DESCRIPTION:1601 University Boulevard\nHamilton, Ohio 45011\n\nLGIF webpage: http://development.ohio.gov/Urban/LGIF.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120301T050000Z
+DTEND:20120302T050000Z
+UID:20171110T055422Z-163
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Deadline for submitting applications 
+DESCRIPTION:Applications must be submitted to the Office of Redevelopment on the 26th floor of the Riffe Center by 5pm.\n\nhttp://development.ohio.gov/Urban/LGIF.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120330T050000Z
+DTEND:20120331T050000Z
+UID:20171110T055422Z-164
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Historic Preservation Tax Credit - Deadline for submitting applications
+DESCRIPTION:Applications for Round 8 of the program must be submitted to the Office of Redevelopment by 5pm. \n\nhttp://development.ohio.gov/Urban/ohptc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120501T050000Z
+DTEND:20120502T050000Z
+UID:20171110T055422Z-165
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio New Markets Tax Credit Program - Deadline for submitting applications
+DESCRIPTION:Applications for Round 3 should be submitted to the Office of Redevelopment by 5pm. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120305T050000Z
+DTEND:20120306T050000Z
+UID:20171110T055422Z-166
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio New Markets Tax Credit Program - Round 3 Application Released
+DESCRIPTION:http://development.ohio.gov/Urban/ONM/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120120T050000Z
+DTEND:20120121T050000Z
+UID:20171110T055422Z-167
+DTSTAMP:20171110T055422Z
+SUMMARY:Clean Ohio Revitalization Fund - Applications due to public library
+DESCRIPTION:http://clean.ohio.gov/BrownfieldRevitalization/RevitalizationFundApplication.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120131T183000Z
+DTEND:20120131T210000Z
+UID:20171110T055422Z-168
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Council meeting
+DESCRIPTION:Meeting will be held on the 19th floor of the Vern Riffe Center. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120220T130000Z
+DTEND:20120220T220000Z
+UID:20171110T055422Z-170
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Round 1 Applications Accepted
+DESCRIPTION:Grant and Loan Applications for Round 1 of the Local Government Innovation Fund will begin being accepted on this date. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120516T130000Z
+DTEND:20120516T220000Z
+UID:20171110T055422Z-171
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Loan planning studies due 
+DESCRIPTION:Loan planning studies to be considered for Round 2 of the Local Government Innovation Fund are due today by 5pm. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120601T050000Z
+DTEND:20120602T050000Z
+UID:20171110T055422Z-172
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Round One Council Awards Meeting
+DESCRIPTION:Round One awards to be made at the Council meeting. Time and location TBD.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120601T130000Z
+DTEND:20120601T220000Z
+UID:20171110T055422Z-173
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Round Two Applications Due
+DESCRIPTION:Loan applications for Round Two of the Local Government Innovation Fund are due to the Office of Redevelopment by 5pm.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T130000Z
+DTEND:20120817T220000Z
+UID:20171110T055422Z-174
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Loan planning studies due
+DESCRIPTION:Loan planning studies due to the Office of Redevelopment by 5pm for Round 3 consideration.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120903T130000Z
+DTEND:20120903T220000Z
+UID:20171110T055422Z-175
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF - Round 3 Applications due
+DESCRIPTION:Grant and loan applications for Round 3 of the Local Government Innovation Fund due to the Office of Redevelopment by 5pm. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121203T170000Z
+DTEND:20121203T220000Z
+UID:20171110T055422Z-177
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIF Round 4 Applications Due (Loans only) 
+DESCRIPTION:Loan applications for Round 4 of the Local Government Innovation Fund are due to the Office of Redevelopment by 5pm. The Local Government Innovation Council establishes criteria for and makes loans and awards to political subdivisions for local government innovation projects. These projects will create more efficient and effective service delivery within their area, as well as facilitate improved business environments and promote community attraction with their plan for efficiency, collaboration, or shared services. For more information, contact the Office of Redevelopment at (614) 995-2292. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120523T050000Z
+DTEND:20120525T050000Z
+UID:20171110T055422Z-178
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Brownfield Conference
+DESCRIPTION:Registration is open for the 2012 Ohio Brownfield Conference being held at the Greater Columbus Convention Center May 23rd and 24th. \n\nhttp://www.epa.state.oh.us/derr/Brownfield_Conference2012.aspx 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120404T050000Z
+DTEND:20120406T050000Z
+UID:20171110T055422Z-179
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Properties Redevelopment Institute
+DESCRIPTION:Registration is open for the Ohio Properties Redevelopment Institute: Transforming Problem Properties into Opportunity on April 4th and 5th at the Hyatt Regency in downtown Columbus. \n\nhttp://greaterohio.org/initiatives/ohio-properties-redevelopment-institute?utm_source=Greater+Ohio+Supporters&utm_campaign=17379177f0-Greater_Ohio_State_Budget_Response_2011&utm_medium=email 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120419T050000Z
+DTEND:20120420T050000Z
+UID:20171110T055422Z-180
+DTSTAMP:20171110T055422Z
+SUMMARY: Building Sustainable Communities: Revitalizing Your City
+DESCRIPTION:Information coming soon. \n\nFort Piqua Plaza, 308 N. Main St. Piqua, OH 45356
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120314T150000Z
+DTEND:20120314T210000Z
+UID:20171110T055422Z-181
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Brownfields workshop
+DESCRIPTION:Ohio EPA is offering a free workshop to inform small and rural communities of the state and federal resources available to help redevelop brownfields, or blighted properties. This workshop will be held in Richfield, Ohio.\n\nRegister here: http://bfieldresources31412.eventbrite.com/ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120518T180000Z
+DTEND:20120518T210000Z
+UID:20171110T055422Z-182
+DTSTAMP:20171110T055422Z
+SUMMARY:Clean Ohio Council Meeting
+DESCRIPTION:The meeting to award Round 12 grants for the Clean Ohio Brownfield Revitalization Fund will be held at: Rhodes Office Tower, Lobby Hearing Room\n30 E. Broad Street\nColumbus, OH 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120607T050000Z
+DTEND:20120609T050000Z
+UID:20171110T055422Z-183
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Stormwater Conference
+DESCRIPTION:The 2012 Ohio Stormwater Conference is an annual conference dedicated to advance the knowledge and understanding of comprehensive stormwater management for those dealing in all aspects of planning, design, implementation and regulatory compliance. \n\nIt will be held at SeaGate Convention Center in Toledo, Ohio. Visit the following website for more information: http://www.ohioswa.com/calendar-events/annual-conference/ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120725T130000Z
+DTEND:20120805T223000Z
+UID:20171110T055422Z-184
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio State Fair
+DESCRIPTION:717 East 17th Avenue, Columbus, OH 43211\nhttp://www.ohiostatefair.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120626T160000Z
+DTEND:20120626T170000Z
+UID:20171110T055422Z-186
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Historic Preservation Tax Credit - Round 8 Award Announcement
+DESCRIPTION:Please join us for a special announcement regarding the Ohio Historic Preservation Tax Credit program. \n\nColumbus City Hall \nPlaza at Front Street Entrance\n\n90 West Broad Street \nColumbus, Ohio 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120622T163000Z
+DTEND:20120622T213000Z
+UID:20171110T055422Z-187
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission and Advisory Board
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121002T140000Z
+DTEND:20121003T220000Z
+UID:20171110T055422Z-191
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Consolidated Plan Advisory Meetings for FY 2013 (OCD)
+DESCRIPTION:The Ohio Department of Development’s Office of Community Development will hold Program Advisory Committee meetings at the Creekside Conference and Event Center in Gahanna, Ohio. The meetings provide an opportunity to discuss and comment on specific policies and requirements pertaining to current community development programs. Citizen participation is by invitation only. Contact Ian Thomas at (614) 466-8744 for more information
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120913T183000Z
+DTEND:20120913T193000Z
+UID:20171110T055422Z-192
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2013 Ohio Consolidated Plan Public Hearing on Needs Issues (OCD)
+DESCRIPTION:The Ohio Department of Development’s Office of Community Development will conduct a Public Hearing on the draft Ohio Consolidated Plan – Annual Action Plan for the program year FY 2013. The public is invited to participate during the Public Hearing
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120823T130000Z
+DTEND:20120823T210000Z
+UID:20171110T055422Z-193
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Retreat
+DESCRIPTION:Deer Creek State Park, \n20635 State Park Road 20\nMt. Sterling, Ohio 43143\n\nhttp://development.ohio.gov/ohiothirdfrontier/documents/otf_retreat_agenda.pdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120906T190000Z
+DTEND:20120906T210000Z
+UID:20171110T055422Z-211
+DTSTAMP:20171110T055422Z
+SUMMARY:Regional planning meeting for Clean Ohio Council 
+DESCRIPTION:The Clean Ohio Council connects redevelopment with housing, transportation and infrastructure goals; provides technical assistance and seed money to implement recommendations allowing communities to leverage and prioritize local, state and federal funds to get the biggest economic input.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120913T140000Z
+DTEND:20120914T220000Z
+UID:20171110T055422Z-215
+DTSTAMP:20171110T055422Z
+SUMMARY:Waste to Wealth Summit
+DESCRIPTION:The Appalachia Ohio Zero Waste Initiative hosts the inaugural Waste to Wealth Summit – Building Rural Assets through Resource Recovery. Leaders from Kentucky, Ohio and West Virginia will examine how to build and sustain rural wealth by increasing resource recovery and supporting the development of recycling-based businesses. The summit will be held at the Ohio University Inn and Conference Center in Athens, Ohio. 331 Richland Avenue Athens, Ohio 45701 Phone: (866) 593-6661\n\nhttp://ruralaction.org/programs/zerowaste/aowzi-events/waste-to-wealth-summit/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121004T140000Z
+DTEND:20121005T220000Z
+UID:20171110T055422Z-216
+DTSTAMP:20171110T055422Z
+SUMMARY:2012 Ohio CDC Association Annual Conference
+DESCRIPTION:The Ohio CDC Association will hold its annual conference Rockin’ Revitalization in Cleveland at the Wyndham Cleveland at Playhouse Square 1260 Euclid Avenue Cleveland, OH 44115 Phone: (216) 615-7500. Registration is available online. Questions should be directed to Rhonda Foreman at (614) 461-6392 ext 210. \n\nhttp://www.ohiocdc.org/conferences.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121011T140000Z
+DTEND:20121011T220000Z
+UID:20171110T055422Z-217
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Valley Regional Development Commission Infrastructure Conference
+DESCRIPTION:The Ohio Valley Regional Development Commission (OVRDC) will hold an Infrastructure Conference at Shawnee State Park Resort and Conference Center in Friendship, Ohio. This conference will feature speakers delivering information on how to fund and support infrastructure projects and systems.  Contact info: 9329 St. Rt. 220 East, Suite A\nWaverly, Ohio 45690-9012 Phone: (740)947-2853\n\nhttp://www.ovrdc.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121024T140000Z
+DTEND:20121025T220000Z
+UID:20171110T055422Z-218
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Conference of Community Development Fall Quarterly Meeting
+DESCRIPTION:The Ohio Conference of Community Development (OCCD) will hold its Fall Quarterly Meeting at the Crowne Plaza North in Columbus, Ohio. Contact Pat Richards at (937) 652-3523 to register or Debra Mayes at (937) 215-5872 for training information.  Crowne Plaza North Columbus 6500 Doubletree Avenue Columbus, OH 43229 Phone: (614) 885-1885\n\nhttp://www.occd.org/gateway/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121127T140000Z
+DTEND:20121127T220000Z
+UID:20171110T055422Z-219
+DTSTAMP:20171110T055422Z
+SUMMARY:2012 Ohio Housing Conference
+DESCRIPTION:The Ohio Housing Finance Agency (OHFA) and Ohio Capital Corporation for Housing (OCCH) will co-host the 2012 Ohio Housing Conference at the Greater Columbus Convention Center in Columbus, Ohio. Conference sessions will focus on educating and inspiring members to continue advocating for decent, affordable housing for Ohio’s residents and communities. Early Bird registration ends October 26. More information is available online.\n\nhttp://www.ohiohome.org/2012OHC/home.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120925T123000Z
+DTEND:20120925T213000Z
+UID:20171110T055422Z-220
+DTSTAMP:20171110T055422Z
+SUMMARY:7th Annual Northern Ohio Energy Management Conference
+DESCRIPTION:http://www.mecseminars.com/energy-management/7th-annual-northern-ohio-energy-management-conference
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121022T121500Z
+DTEND:20121023T230000Z
+UID:20171110T055422Z-222
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Public Facilities Maintenance Association Annual Conference & Trade Show
+DESCRIPTION:http://www.opfma.org/conferenceinfo.php
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121030T140000Z
+DTEND:20121031T210000Z
+UID:20171110T055422Z-223
+DTSTAMP:20171110T055422Z
+SUMMARY:Advanced Energy B2B Conference & Expo
+DESCRIPTION:http://www.advancedenergyexpo.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T230000Z
+DTEND:20120915T030000Z
+UID:20171110T055422Z-224
+DTSTAMP:20171110T055422Z
+SUMMARY:12th Annual Business to Business Exchange (B2B)
+DESCRIPTION:African American Shark Pool\n6:00 p.m. – 10:00 p.m.\nSharonville Convention Center\n11355 Chester Road\nCincinnati, Ohio  45246\nContact:  Joseph Brooks, Minority Procurement Coordinator, jospeph.brooks@development.ohio.gov
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T130000Z
+DTEND:20120921T220000Z
+UID:20171110T055422Z-225
+DTSTAMP:20171110T055422Z
+SUMMARY:Understanding ITAR Requirements - Export Licensing Application Process
+DESCRIPTION:ITAC - Understanding ITAR Requirements-Series\nThe International Trade Assistance Center (ITAC) at Wright State University will host a series of workshops on Understanding ITAR Requirements. This session's topic is Export Licensing Application Process. To register, please visit www.sbdcwsu.com.  Contact: Emily Tucker, Global Trade Manager at emily.tucker@development.ohio.gov\n\nhttp://sbdcwsu.wordpress.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T123000Z
+DTEND:20120926T170000Z
+UID:20171110T055422Z-226
+DTSTAMP:20171110T055422Z
+SUMMARY:IEA/Ohio GATE Utility Invitational
+DESCRIPTION:22 East 5th Street  Dayton, OH 45402 Contact:  Sharon Smith, Interim Assistant Deputy Chief, Sharon.smith@development.ohio.gov
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T140000Z
+DTEND:20120926T220000Z
+UID:20171110T055422Z-227
+DTSTAMP:20171110T055422Z
+SUMMARY:Export Matchmaker Trade Fair & Conference
+DESCRIPTION:The U.S. Small Business Administration, in collaboration with Columbus State Community College, the U.S. Department of Commerce, and other partners, will host an Export Matchmaker in Columbus, Ohio. This event will feature a trade show, one-on-one meetings with Export Management/Trading Companies, and breakout sessions on various international topics.   Columbus State Community College Center for Workforce Development 315 Cleveland Avenue Columbus, OH 43215\n\nhttp://fisher.osu.edu/international/events/export-matchmaker-trade-fair-&-conference/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T133000Z
+DTEND:20120929T203000Z
+UID:20171110T055422Z-228
+DTSTAMP:20171110T055422Z
+SUMMARY:Women Educating Women - WBE Conference
+DESCRIPTION:Contact:  Vanita Nevis, Office Manager, vanita.nevis@development.ohio.gov\n\nhttp://womeneducatingwomen2day.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120927T180000Z
+DTEND:20120927T200000Z
+UID:20171110T055422Z-229
+DTSTAMP:20171110T055422Z
+SUMMARY:Industrial, Technology, and Enterprise Advisory Council (ITEAC) meeting
+DESCRIPTION:This is a regularly scheduled meeting of the Industrial Technology and Enterprise Advisory Council, one of state’s advisory bodies for programs that support technology-based economic development in Ohio.    Vern Riffe Center 77 South High Street 31st Floor, Room East B Columbus, Ohio 43215   For questions and additional meeting information, please contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121003T150000Z
+DTEND:20121003T170000Z
+UID:20171110T055422Z-230
+DTSTAMP:20171110T055422Z
+SUMMARY:Technology Investment Tax Credit (TITC) meeting
+DESCRIPTION:Since its inception in 1996, the Ohio Technology Investment Tax Credit program has provided incentives for more than $160 million in investments for small Ohio technology companies.     Vern Riffe Center 77 South High Street Columbus Ohio 43215   For questions and additional meeting information, please contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121101T150000Z
+DTEND:20121101T170000Z
+UID:20171110T055422Z-231
+DTSTAMP:20171110T055422Z
+SUMMARY:Technology Investment Tax Credit (TITC) meeting
+DESCRIPTION:Since its inception in 1996, the Ohio Technology Investment Tax Credit program has provided incentives for more than $160 million in investments for small Ohio technology companies.    Vern Riffe Center 77 South High Street Columbus Ohio 43215   For questions and additional meeting information, please contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121001T130000Z
+DTEND:20121005T220000Z
+UID:20171110T055422Z-233
+DTSTAMP:20171110T055422Z
+SUMMARY:EcoSummit 2012
+DESCRIPTION:http://www.ecosummit2012.org/index.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121114T150000Z
+DTEND:20121114T180000Z
+UID:20171110T055422Z-234
+DTSTAMP:20171110T055422Z
+SUMMARY:CANCELLED - Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Commission is comprised of state officials and regional representatives appointed by the Governor, who are responsible for the allocation of funds to support programs and activities associated with the Ohio Third Frontier.  For more information, contact the Office of Technology Investments at (614) 466-3887.\n\nThe Ohio Third Frontier Advisory Board and Ohio Third Frontier Commission will conduct a joint meeting at 10:00 a.m. on Thursday, December 13, 2012. The meeting will be held at TechColumbus, 1275 Kinnear Road, Columbus, Ohio 43212.   The Ohio Third Frontier Commission will also be meeting at 12:30 p.m. on Thursday, December 13, 2012. The meeting will be held at TechColumbus, 1275 Kinnear Road, Columbus, Ohio 43212.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121023T150000Z
+DTEND:20121023T180000Z
+UID:20171110T055422Z-235
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Commission is comprised of state officials and regional representatives appointed by the Governor, who are responsible for the allocation of funds to support programs and activities associated with the Ohio Third Frontier. For more information, contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T183000Z
+DTEND:20121026T200000Z
+UID:20171110T055422Z-237
+DTSTAMP:20171110T055422Z
+SUMMARY:Clean Ohio Council Policy Meeting
+DESCRIPTION:The Clean Ohio Council approves Clean Ohio Revitalization grants which provides targeted funding for cleanup of former commercial and industrial property (brownfields). These funds are early investments in redeveloping sites so that they are safe, market ready and prepared for new business expansion or attraction opportunities. For more information, contact the Office of Redevelopment at (614) 995-2292.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121129T203000Z
+DTEND:20121129T220000Z
+UID:20171110T055422Z-238
+DTSTAMP:20171110T055422Z
+SUMMARY:LGIC Round 3 Awards Meeting
+DESCRIPTION:The Local Government Innovation Council establishes criteria for and makes loans and awards to political subdivisions for local government innovation projects. These projects will create more efficient and effective service delivery within their area, as well as facilitate improved business environments and promote community attraction with their plan for efficiency, collaboration, or shared services. For more information, contact the Office of Redevelopment at (614) 995-2292. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110411T050000Z
+DTEND:20110412T050000Z
+UID:20171110T055422Z-241
+DTSTAMP:20171110T055422Z
+SUMMARY:Test test test
+DESCRIPTION:blah blah blah blah blah blah\n\nhttp://www.google.com\nhttp://www.yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121112T143000Z
+DTEND:20121112T173000Z
+UID:20171110T055422Z-242
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board Meeting
+DESCRIPTION:The Public Benefits Advisory Board provides advice to the Ohio Department of Development to ensure that energy services are provided to low-income consumers. 77 South High Street Columbus Ohio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130213T150000Z
+DTEND:20130213T170000Z
+UID:20171110T055422Z-244
+DTSTAMP:20171110T055422Z
+SUMMARY:Commission meeting
+DESCRIPTION:The Ohio Third Frontier Commission will conduct a meeting at 10:00 a.m. on February 13, 2013. The meeting will be held at TechColumbus, 1275 Kinnear Road, Columbus, Ohio 43212.  The Ohio Third Frontier Commission is comprised of state officials and regional representatives appointed by the Governor, who are responsible for the allocation of funds to support technology and entrepreneurial programs and activities associated with Ohio Third Frontier. For more information, contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130410T150000Z
+DTEND:20130410T170000Z
+UID:20171110T055422Z-245
+DTSTAMP:20171110T055422Z
+SUMMARY:Advisory Board and Commission meetings
+DESCRIPTION:\nThe Ohio Third Frontier Advisory Board and Ohio Third Frontier Commission will conduct a joint meeting beginning at 10:00 a.m. on April 10, 2013. Following a brief break at the conclusion of the joint meeting, the Commission will reconvene for a normal business meeting. Both meetings will be held at TechColumbus, 1275 Kinnear Road, Columbus, Ohio 43212. The Ohio Third Frontier Advisory Board is comprised of leaders from industry, academia, and government, who advise on strategic planning and general management and coordination of programs associated with the Ohio Third Frontier. The Ohio Third Frontier Commission is comprised of state officials and regional representatives appointed by the Governor, who are responsible for the allocation of funds to support technology an entrepreneurial programs and activities associated with Ohio Third Frontier. For more information, contact the Office of Technology Investments at (614) 466-3887.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131211T150000Z
+DTEND:20131211T193000Z
+UID:20171110T055422Z-249
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission meetings
+DESCRIPTION:The Ohio Third Frontier Advisory Board and Ohio Third Frontier Commission will conduct a joint meeting beginning at 10:00 a.m. on December 11, 2013. Following a brief break at the conclusion of the joint meeting, the Commission will reconvene for a normal business meeting. Both meetings will be held at TechColumbus, 1275 Kinnear Road, Columbus, Ohio 43212. The Ohio Third Frontier Advisory Board is comprised of leaders from industry, academia, and government, who advise on strategic planning and general management and coordination of programs associated with the Ohio Third Frontier. The Ohio Third Frontier Commission is comprised of state officials and regional representatives appointed by the Governor, who are responsible for the allocation of funds to support technology and entrepreneurial programs and activities associated with Ohio Third Frontier. For more information, contact the Office of Technology Investments at (614) 466-3887.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130101T050000Z
+DTEND:20130102T050000Z
+UID:20171110T055422Z-250
+DTSTAMP:20171110T055422Z
+SUMMARY:New Year
+DESCRIPTION:Holiday\n\n\nhttp://development.ohio.gov/DSACalendar/\nhttp://development.ohio.gov/\n\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130110T130000Z
+DTEND:20130110T220000Z
+UID:20171110T055422Z-251
+DTSTAMP:20171110T055422Z
+SUMMARY:Brownfield Revolving Loan Fund: Petroleum Remediation project proposals due
+DESCRIPTION:Brownfield Revolving Loan Fund: Petroleum Remediation project proposals due January 10th, 2013 by COB. Contact: Erin Hazelton at 614.728.1258
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130330T130000Z
+DTEND:20130330T220000Z
+UID:20171110T055422Z-252
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Historic Preservation Tax Credit: Round 10 Application Submission Deadline
+DESCRIPTION:Ohio Historic Preservation Tax Credit: Round 10 Application Submission Deadline - March 30th, 2013 by COB. Contact: Nathaniel Kaelin at 614.728.0995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130930T130000Z
+DTEND:20130930T220000Z
+UID:20171110T055422Z-253
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Historic Preservation Tax Credit: Round 11 Application Submission Deadline
+DESCRIPTION:Ohio Historic Preservation Tax Credit: Round 11 Application Submission Deadline - Sept. 30th, 2013 by COB. Contact: Nathaniel Kaelin at 614.728.0995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130122T130000Z
+DTEND:20130122T171500Z
+UID:20171110T055422Z-254
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Housing Improvement Program (CHIP) Application Training
+DESCRIPTION:Training will be held at the Embassy Suites Dublin from 8:00 a.m. – 12:15 p.m. The training is conducted for non-entitlement communities and counties interested in submitting CHIP applications for funding in Fiscal Year 2013. FY 2013 CHIP application training information and relevant training materials are available online at:\nhttp://development.ohio.gov/cs/cs_chip.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130122T130000Z
+DTEND:20130122T220000Z
+UID:20171110T055422Z-255
+DTSTAMP:20171110T055422Z
+SUMMARY:Organizing Housing Planning Work Groups from The Office of Community Development
+DESCRIPTION:The Office of Community Development is organizing Housing Planning Work Groups in order to obtain stakeholder input to identify options to improve the implementation of the Community Housing Improvement Program (CHIP), beginning with the FY 2014 Consolidated Plan. Persons interested in participating with experience in facilitating CHIP grant activities may contact the Office of Community Development at (614) 466-2285. Details about the Housing Planning Work Groups are available online. The deadline to register is January 15, 2013.\nhttp://development.ohio.gov/cs/cs_chip.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130604T173000Z
+DTEND:20130604T203000Z
+UID:20171110T055422Z-256
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing Trust Fund Advisory Committee meeting
+DESCRIPTION:The Ohio Housing Trust Fund Advisory Committee meeting will occur 12:30-3:30 p.m. in the Riffe Center, 77 South High Street, 19th floor, Room 1960, Columbus, Ohio 43215. Contact the Office of Community Development at (614) 466-2285 for more information.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T150000Z
+DTEND:20130111T170000Z
+UID:20171110T055422Z-257
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:Ohio Coal Development Technical Advisory Committee\nFriday, January 11, 2013\n10:00 a.m. – 12:00 p.m.\n\nVern Riffe Center\n77 South High Street\n31st Floor, Room South A\nColumbus, Ohio 43215\n\nThe Ohio Coal Development Technical Advisory Committee will review and make recommendations concerning Ohio coal development project proposals and other topics related to Ohio’s coal development\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130115T140000Z
+DTEND:20130115T170000Z
+UID:20171110T055422Z-258
+DTSTAMP:20171110T055422Z
+SUMMARY:HWAP RFP Bidder's Conference
+DESCRIPTION:HWAP RFP Bidder's Conference\n9:00 a.m. \nVern Riffe Center \nOhio Development Services Agency \n77 South High Street\n31st Floor, Room South B&C\nColumbus, Ohio 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130106T180000Z
+DTEND:20130106T210000Z
+UID:20171110T055422Z-259
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council Meeting
+DESCRIPTION:The Minority Business Advisory Council helps create new policies and programming ideas to improve Ohio’s business climate for minority business growth.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130304T140000Z
+DTEND:20130304T220000Z
+UID:20171110T055422Z-261
+DTSTAMP:20171110T055422Z
+SUMMARY: Local Government Innovation Fund: Round 5 Application Submission Deadline
+DESCRIPTION:Applications are due by 5 p.m. Contact: Nicole Bent at (614) 644-6552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130402T130000Z
+DTEND:20130402T220000Z
+UID:20171110T055422Z-262
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Historic Preservation Tax Credit: Round 10 Application Submission Deadlin
+DESCRIPTION:Applications are due by 5 p.m. Contact: Nathaniel Kaelin at (614) 728-0995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130320T183000Z
+DTEND:20130320T210000Z
+UID:20171110T055422Z-264
+DTSTAMP:20171110T055422Z
+SUMMARY:Public hearing on the Draft FY 2013 Ohio Consolidated Plan
+DESCRIPTION:Public hearing to receive public comments on the Draft FY 2013 Ohio Consolidated Plan will occur beginning 1:30 p.m. at 77 South High Street, Room 1960, 19th floor, Columbus, Ohio 43215. Contact the Office of Community Development at (614) 466-2285 for more information.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T130000Z
+DTEND:20130405T220000Z
+UID:20171110T055422Z-265
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Housing Improvement Program (CHIP) Deadline
+DESCRIPTION:Deadline to submit FY 2013 Community Housing Improvement Program (CHIP) applications. Completed applications must be received by 5 p.m. in the Office of Community Development (OCD), 77 South High Street, 24th Floor, Columbus, Ohio 43215. Questions regarding the FY 2013 CHIP application can be directed to OCD staff in the Residential Revitalization section at (614) 466-2285. The application and relevant planning material are available online.\n\nhttp://development.ohio.gov/cs/cs_chip.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T140000Z
+DTEND:20130411T210000Z
+UID:20171110T055422Z-266
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Development Program Application training
+DESCRIPTION:Training will be conducted for communities planning to apply for funds through the FY 2013 Community Development Program. Application training takes place 9 a.m. to 4 p.m. at the Ohio Department of Transportation Auditorium, 1980 West Broad Street, Columbus, Ohio 43223. Contact the Office of Community Development at (614) 466-2285 for more information.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130312T180000Z
+DTEND:20130312T200000Z
+UID:20171110T055422Z-267
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor's Executive Board Meeting for Office of Workforce Transformation 
+DESCRIPTION:The Vern Riffe Center for Government and the Arts\n77 South High Street, 31st Floor\nColumbus, Ohio 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130611T180000Z
+DTEND:20130611T200000Z
+UID:20171110T055422Z-268
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor's Executive Board Meeting for Office of Workforce Transformation 
+DESCRIPTION:The Vern Riffe Center for Government and the Arts\n77 South High Street, 31st Floor\nColumbus, Ohio 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131210T180000Z
+DTEND:20131210T200000Z
+UID:20171110T055422Z-270
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor's Executive Board Meeting for Office of Workforce Transformation
+DESCRIPTION:The Vern Riffe Center for Government and the Arts\n77 South High Street, 31st Floor\nColumbus, Ohio 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130327T123000Z
+DTEND:20130327T213000Z
+UID:20171110T055422Z-272
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Business Matchmaker Conference
+DESCRIPTION:The Ohio Business Matchmaker Conference runs from Wednesday, March 27, 2013 to Thursday, March 28, 2013 from 7:30 a.m. to 4:30 p.m. at the Dayton Convention Center.\n\nChristiane Schmenk, director of the Ohio Development Services Agency will speak at the eighth annual Ohio Business Matchmaker Conference on Wednesday, March 27, 2013. “This conference provides a convenient opportunity for small businesses to network with new customers and suppliers,” said Christiane Schmenk, director of the Ohio Development Services Agency. “These matches are an essential tool for small businesses to grow, expand and create new jobs.”
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T123000Z
+DTEND:20130328T213000Z
+UID:20171110T055422Z-273
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Business Matchmaker Conference
+DESCRIPTION:The Ohio Business Matchmaker Conference runs from Wednesday, March 27, 2013 to Thursday, March 28, 2013 from 7:30 a.m. to 4:30 p.m. at the Dayton Convention Center.\n\nChristiane Schmenk, director of the Ohio Development Services Agency will speak at the eighth annual Ohio Business Matchmaker Conference on Wednesday, March 27, 2013. “This conference provides a convenient opportunity for small businesses to network with new customers and suppliers,” said Christiane Schmenk, director of the Ohio Development Services Agency. “These matches are an essential tool for small businesses to grow, expand and create new jobs.”
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130416T143000Z
+DTEND:20130416T170000Z
+UID:20171110T055422Z-274
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board meeting
+DESCRIPTION:The Public Benefits Advisory Board meeting is set for April 16, 2013. The location is in the Riffe Building, 77 S. High Street, 31st Floor Room South B&C beginning at 9:30 a.m.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T173000Z
+DTEND:20130425T210000Z
+UID:20171110T055422Z-275
+DTSTAMP:20171110T055422Z
+SUMMARY:Fair Housing Month Luncheon and Training
+DESCRIPTION:The Office of Community Development, in cooperation with the Ohio Conference of Community Development, will hold the Fair Housing Month Luncheon and Training at the Crowne Plaza North in Columbus. The luncheon will feature keynote speaker Jim McCarthy, president and chief executive officer of the Miami Valley Fair Housing Center, as well as Civil Rights technical assistance training in the afternoon. Details and registration information are available at:\n\nhttp://www.occd.org/calendar/2013/04/25/fair-housing-month-luncheon-and-training-occdocd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130402T150000Z
+DTEND:20130402T193000Z
+UID:20171110T055422Z-276
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio New Markets Tax Credit & Volume Cap Workshop
+DESCRIPTION:This workshop, hosted by the CDFA Ohio Financing Roundtable and Ohio Development Services Agency, is focused on two critical development finance tools: Ohio's New Markets Tax Credit program and private activity bond volume cap allocation. Attendees will meet the people administering the programs, learn about the tools, find out how to receive allocations, and hear about real projects.\n\nLocation: Vern Riffe Center\n31st Floor\nRoom: South B & C\nColumbus, Ohio 43215\n\n\nCost: $35 for CDFA Members/$45 for Non-Members
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130415T150000Z
+DTEND:20130415T220000Z
+UID:20171110T055422Z-277
+DTSTAMP:20171110T055422Z
+SUMMARY:Public hearing for the HWAP state plan
+DESCRIPTION:A public hearing for the HWAP state plan, including awarded agencies and territories for Program Year 2013, will be held April 15, 2013 from 10:00 a.m. – 5 p.m. at the Vern Riffe Center, 77 South High Street, 31st Floor, South A, Columbus, Ohio, 43215. This represents a change from the date tentatively set in the Request for Proposals and was necessary due to delays in the funding announcement.   •	April 15, 2013\n•	10:00 a.m. – 5 p.m.\n•	Vern Riffe Center\n•	77 South High Street\n•	31st Floor, South A\n•	Columbus, Ohio, 43215\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130417T180000Z
+DTEND:20130417T200000Z
+UID:20171110T055422Z-278
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council Meeting
+DESCRIPTION:The Minority Business Advisory Council helps create new policies and programming ideas to improve Ohio’s business climate for minority businesses. \n\nVern Riffe Center  77 S. High Street   31st Floor, South B & C   Columbus, Ohio 43215  \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130421T150000Z
+DTEND:20130421T220000Z
+UID:20171110T055422Z-279
+DTSTAMP:20171110T055422Z
+SUMMARY:Earthfest 2013
+DESCRIPTION:Earthfest 2013\nCuyahoga County Fairgrounds\nSunday, April 21\n10 a.m.- 5p.m\n\nEarthFest will celebrate Advanced and Renewable Energy with a new exhibit area under the Fairground’s dramatic on site wind turbine and Energy Education Center. EarthFest is Ohio’s largest environmental education event and the longest running Earth Day celebration in the nation. EarthFest will feature over 200 exhibits in 8 sustainability areas including: Advanced and Renewable Energy, Local & Sustainable Food, Clean Transportation (with Ride & Drive), Health & Fitness, Community Works, Family Fun, Zero Waste, and Green Home & Garden. Families will enjoy all day entertainment with eco-activities, Ohio’s first biodiesel powered amusement park rides, music on 5 stages, urban farm animals, healthy food from local food trucks, the NASA “Village,” Jungle Bob with his animal friends, Valley Exotic Petting Zoo, pony rides and much more…\n\nFor more information visit\n\nhttp://www.earthdaycoalition.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130429T150000Z
+DTEND:20130429T170000Z
+UID:20171110T055422Z-280
+DTSTAMP:20171110T055422Z
+SUMMARY:Meeting of the Ohio Tax Credit Authority
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals throughout the state who are responsible for reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.  Contact Stephanie Gostomski at (614)466-6619 for additional information.\n\nhttp://development.ohio.gov/files/bs/OhioTaxCreditAuthorityAdvisoryMeeting20130426.pdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130610T130000Z
+DTEND:20130610T220000Z
+UID:20171110T055422Z-284
+DTSTAMP:20171110T055422Z
+SUMMARY:Round 6 Local Government Innovation Fund applications due
+DESCRIPTION:Applications for Round 6 of the Local Government Innovation Fund are due by 5 p.m. to the Office of Redevelopment.\n\nhttp://development.ohio.gov/cs/cs_localgovfund.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130606T180000Z
+DTEND:20130606T200000Z
+UID:20171110T055422Z-285
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Venture Capital Authority Meeting
+DESCRIPTION:This is a regular meeting of the Ohio Venture Capital Authority.  The Authority oversees the activities of the Ohio Capital Fund, driving entrepreneurial growth, job creation and economic prosperity in Ohio by creating a "fund of funds" portfolio of seed and early-stage capital investments. \n\nRiffe Center 31st floor, room south A
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130520T150000Z
+DTEND:20130520T180000Z
+UID:20171110T055422Z-286
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals throughout the state who are responsible for reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n\nMonday, May 20th\nMeeting of the Ohio Tax Credit Authority\n10:00 a.m.\nVern Riffe Center\n31st Floor, West B & C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130522T050000Z
+DTEND:20130523T050000Z
+UID:20171110T055422Z-289
+DTSTAMP:20171110T055422Z
+SUMMARY:Energy Conversation Projects Workshop Cleveland
+DESCRIPTION:WHAT IS THE WORKSHOP?\nThis one day workshop is specifically designed for OHIO PUBLIC INSTITUTIONS (k-12, college and universities, cities, counties, and state institutions) to assist you in LOWERING ENERGY CONSUMPTION in the most cost-effective, efficient ways.\nThe cost of the program is paid through a grant from the Ohio Development Services Agency, and is, therefore, FREE TO PUBLIC EMPLOYEES. The workshops are being held in SMALL GROUPS to facilitate interaction and enable personalized coaching.\n\nRegister online or by calling or emailing Kate McCallum, workshop coordinator, at 330.677.2223 ext. 3001 or kmccallum@energyinstruction.com\n\nhttp://greenappleproject.com/workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130619T050000Z
+DTEND:20130620T050000Z
+UID:20171110T055422Z-290
+DTSTAMP:20171110T055422Z
+SUMMARY:Energy Conservation Projects Workshop Columbus
+DESCRIPTION:WHAT IS THE WORKSHOP?\nThis one day workshop is specifically designed for OHIO PUBLIC INSTITUTIONS (k-12, college and universities, cities, counties, and state institutions) to assist you in LOWERING ENERGY CONSUMPTION in the most cost-effective, efficient ways.\nThe cost of the program is paid through a grant from the Ohio Development Services Agency, and is, therefore, FREE TO PUBLIC EMPLOYEES. The workshops are being held in SMALL GROUPS to facilitate interaction and enable personalized coaching.\n\nRegister online or by calling or emailing Kate McCallum, workshop coordinator, at 330.677.2223 ext. 3001 or kmccallum@energyinstruction.com\n\nhttp://greenappleproject.com/workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130709T050000Z
+DTEND:20130710T050000Z
+UID:20171110T055422Z-291
+DTSTAMP:20171110T055422Z
+SUMMARY:Energy Conservation Projects Workshop Cincinnati
+DESCRIPTION:WHAT IS THE WORKSHOP?\nThis one day workshop is specifically designed for OHIO PUBLIC INSTITUTIONS (k-12, college and universities, cities, counties, and state institutions) to assist you in LOWERING ENERGY CONSUMPTION in the most cost-effective, efficient ways.\nThe cost of the program is paid through a grant from the Ohio Development Services Agency, and is, therefore, FREE TO PUBLIC EMPLOYEES. The workshops are being held in SMALL GROUPS to facilitate interaction and enable personalized coaching.\n\nRegister online or by calling or emailing Kate McCallum, workshop coordinator, at 330.677.2223 ext. 3001 or kmccallum@energyinstruction.com\n\nhttp://greenappleproject.com/workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130723T173000Z
+DTEND:20130723T203000Z
+UID:20171110T055422Z-293
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Energy Assistance Program Public Hearing 
+DESCRIPTION:Home Energy Assistance Program Public Hearing \nLauche Building Cleveland, Ohio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130730T173000Z
+DTEND:20130730T203000Z
+UID:20171110T055422Z-294
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Energy Assistance Program Public Hearing Cincinnati Hamilton County Community Action Agency Cincinnati, Ohio
+DESCRIPTION:Home Energy Assistance Program Public Hearing\nCincinnati Hamilton County Community Action Agency Cincinnati, Ohio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130806T173000Z
+DTEND:20130806T193000Z
+UID:20171110T055422Z-295
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Energy Assistance Program Public Hearing 
+DESCRIPTION:Home Energy Assistance Program Public Hearing \nVern Riffe Building\n77 South High Street, 31st Floor, South B&C \nColumbus, Ohio
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130821T180000Z
+DTEND:20130821T203000Z
+UID:20171110T055422Z-296
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant State Plan Public Meeting
+DESCRIPTION:Community Services Block Grant State Plan Public Meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130711T173000Z
+DTEND:20130711T190000Z
+UID:20171110T055422Z-297
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing Trust Fund meeting 
+DESCRIPTION:July 11, 12:30-2 p.m. Ohio Housing Trust Fund meeting \nRiffe Building, 77 South High Street, Columbus, Ohio 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130910T183000Z
+DTEND:20130910T203000Z
+UID:20171110T055422Z-300
+DTSTAMP:20171110T055422Z
+SUMMARY:The Fiscal Year 2014 Ohio Consolidated Plan Public Hearing
+DESCRIPTION:The Fiscal Year 2014 Ohio Consolidated Plan Public Hearing will be held Tuesday, September 10, 2013 at 1:30 p.m. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street, in Room 1932 on the 19th Floor. The purpose of the public hearing is to receive comments regarding programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130910T183000Z
+DTEND:20130910T193000Z
+UID:20171110T055422Z-301
+DTSTAMP:20171110T055422Z
+SUMMARY:The State Fiscal Year 2015 Ohio Housing Trust Fund Public Hearing 
+DESCRIPTION:The State Fiscal Year 2015 Ohio Housing Trust Fund Public Hearing will be held Tuesday, September 10, 2013 immediately following the Ohio Consolidated Plan Public Hearing. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street, in Room 1932 on the 19th Floor. The purpose of the public hearing is to receive comments regarding Ohio Housing Trust Fund programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130930T150000Z
+DTEND:20130930T170000Z
+UID:20171110T055422Z-303
+DTSTAMP:20171110T055422Z
+SUMMARY:Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals throughout the state who are responsible for reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131120T050000Z
+DTEND:20131123T050000Z
+UID:20171110T055422Z-304
+DTSTAMP:20171110T055422Z
+SUMMARY:2013 Housing Conference
+DESCRIPTION:2013 Housing Conference\nNovember 20-22, 2013\nSawmill Creek Resort and Conference Center – Huron, Ohio\nDownload conference brochure at the link below\nhttp://www.development.ohio.gov/cs/cs_housingconference.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140116T140000Z
+DTEND:20140116T203000Z
+UID:20171110T055422Z-305
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2013 Community Development Program Implementation Training
+DESCRIPTION:Ohio Department of Transportation Auditorium\n1980 West Broad Street\nColumbus, Ohio 43223\n\nTechnical training for communities receiving FY 2013 Community Development Program grants. Contact Josh Roth at (614) 644-8773 to register.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140129T050000Z
+DTEND:20140131T050000Z
+UID:20171110T055422Z-307
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Conference of Community Development (OCCD) 2014 Winter Quarterly Meeting
+DESCRIPTION:Embassy Suites Dublin\n5100 Metro Place\nDublin, Ohio 43017\n\nInformational and training sessions on topical issues for community development practitioners from Ohio cities, counties, villages, nonprofit organization and consulting firms. Register on the OCCD website.\nhttp://www.occd.org/calendar/2014/01/29/occd-winter-quarterly-2014 \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140301T050000Z
+DTEND:20140308T050000Z
+UID:20171110T055422Z-309
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2014 Community Housing Impact and Preservation Program Application Training (new CHIP)
+DESCRIPTION:First week of March\n\n9:00a-3:30p\n\nOhio Department of Transportation Auditorium\n1980 West Broad Street\nColumbus, Ohio 43223	Application deadline – April 5, 2014 (tentative)\n\nTechnical training for eligible communities applying for FY 2014 Community Housing Impact and Preservation Program (CHIP).\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140313T183000Z
+DTEND:20140313T200000Z
+UID:20171110T055422Z-310
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Hearings for FY 2014 Draft Ohio Consolidated Plan and Ohio Housing Trust Fund
+DESCRIPTION:Vern Riffe Center, 19th Floor\n77 South High Street, Room 1960\nColumbus, Ohio 43215\n\nHearings to receive public comments on program activities and budget allocations for program year FY 2014 funded by federal grant programs and the Ohio Housing Trust Fund. Contact Ian Thomas at (614) 466-8744 for more information.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140317T050000Z
+DTEND:20140319T050000Z
+UID:20171110T055422Z-311
+DTSTAMP:20171110T055422Z
+SUMMARY:COSCDA – Program Managers Training Conference
+DESCRIPTION:The Dupont Circle Hotel\n1500 New Hampshire NW\nWashington, D.C. 20036	\n\nNational spring meeting for state homelessness, housing and community development program managers.\n\nhttp://coscda.org/\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140407T050000Z
+DTEND:20140409T050000Z
+UID:20171110T055422Z-312
+DTSTAMP:20171110T055422Z
+SUMMARY:Housing Ohio Annual Conference 2014  Sponsored by Coalition on Homelessness and Housing in Ohio (COHHIO)
+DESCRIPTION:April 7-8, 2014	Sheraton Columbus at Capital Square\n75 East State Street\nColumbus, Ohio 43215\n\nAnnual conference that promotes advocacy for the prevention of homelessness and for affordable housing. Contact COHHIO to register.\n\nhttp://cohhio.org/\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140414T140000Z
+DTEND:20140414T203000Z
+UID:20171110T055422Z-313
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2014 Community Development Program Application Training
+DESCRIPTION:Ohio Department of Transportation Auditorium\n1980 West Broad Street\nColumbus, Ohio 43223\n\nApplication deadline – June 21, 2014 (tentative)\n\nTechnical training for eligible communities applying for FY 2014 Community Development Program grants. Contact Josh Roth at (614) 644-8773 to register.\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140423T050000Z
+DTEND:20140425T050000Z
+UID:20171110T055422Z-314
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Conference of Community Development (OCCD) 2014 Spring Quarterly Meeting
+DESCRIPTION:Crowne Plaza Columbus North\n6500 Doubletree Avenue\nWorthington, Ohio 43229	\n\nInformational and training sessions on topical issues for community development practitioners from Ohio cities, counties, villages, nonprofit organization and consulting firms. Register on the OCCD website.\nhttp://www.occd.org/\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140601T050000Z
+DTEND:20140608T050000Z
+UID:20171110T055422Z-315
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2014 Supportive Housing Program Application Training
+DESCRIPTION:First week of June\n9:00a.m. -3:30 p.m.\nOhio Department of Transportation Auditorium\n1980 West Broad Street\nColumbus, Ohio 43223\n\nTechnical training for eligible organizations applying for FY 2014 Supportive Housing Program grants.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140610T050000Z
+DTEND:20140614T050000Z
+UID:20171110T055422Z-317
+DTSTAMP:20171110T055422Z
+SUMMARY:COSCDA - CDBG Boot Camp Training
+DESCRIPTION:The Dupont Circle Hotel\n1500 New Hampshire NW\nWashington, D.C. 20036\n\nA four-day training program for state CDBG agency staff on state CDBG requirements, federal laws and regulations that shape how the program is administered.\nhttp://www.coscda.org/ \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140625T050000Z
+DTEND:20140629T050000Z
+UID:20171110T055422Z-318
+DTSTAMP:20171110T055422Z
+SUMMARY:2014 National Community Development Association Annual Conference
+DESCRIPTION:Crowne Plaza Columbus Downtown\n33 East Nationwide Blvd.\nColumbus, Ohio 43215\n\nA national annual conference being hosted by Franklin County Economic Development and Planning Department that will bring more than 150 community and economic development professionals from around the country to central Ohio.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T050000Z
+DTEND:20140612T050000Z
+UID:20171110T055422Z-320
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission meeting
+DESCRIPTION:Ohio Third Frontier Commission meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141210T050000Z
+DTEND:20141211T050000Z
+UID:20171110T055422Z-323
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission Meeting
+DESCRIPTION:Ohio Third Frontier Advisory Board and Commission Meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140826T150000Z
+DTEND:20140826T170000Z
+UID:20171110T055422Z-324
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The Minority Development Financing Advisory Board assists the Development Services Agency in creating employment opportunities and wealth in the minority business community.\n \n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor, Room South A
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140923T150000Z
+DTEND:20140923T170000Z
+UID:20171110T055422Z-325
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The Minority Development Financing Advisory Board assists the Development Services Agency in creating employment opportunities and wealth in the minority business community.\n\n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor, Room South A
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141028T150000Z
+DTEND:20141028T170000Z
+UID:20171110T055422Z-326
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The Minority Development Financing Advisory Board assists the Development Services Agency in creating employment opportunities and wealth in the minority business community.\n \n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor, Room South A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140825T150000Z
+DTEND:20140825T170000Z
+UID:20171110T055422Z-328
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority and is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n\n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140929T150000Z
+DTEND:20140929T170000Z
+UID:20171110T055422Z-329
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority and is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n\n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141027T150000Z
+DTEND:20141027T170000Z
+UID:20171110T055422Z-330
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:Ohio Tax Credit Authority Meeting\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority and is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n\n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141203T150000Z
+DTEND:20141203T170000Z
+UID:20171110T055422Z-331
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority and is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n \n10:00 a.m., 77 South High Street Columbus, Ohio, 31st Floor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140918T050000Z
+DTEND:20140919T050000Z
+UID:20171110T055422Z-343
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:Time: 1-4pm\nLocation: 31st floor, Vern Riffe building 77 S. High Street Columbus\n\nBrief Description: The 11-member TourismOhio Advisory Board is charged with advising the Director of the Ohio Development Services Agency and the Director of TourismOhio on strategies for promoting Ohio’s numerous travel destinations and experiences.\n\nWho’s welcome/Audience: open meeting\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141021T050000Z
+DTEND:20141024T050000Z
+UID:20171110T055422Z-344
+DTSTAMP:20171110T055422Z
+SUMMARY:Weatherize Ohio Conference
+DESCRIPTION:Location: Quest Conference Center\n8405 Pulsar Place\nColumbus, OH 43240\n\nBrief Description: Ohio’s only full-service weatherization conference, including utility programs, U.S. Department of Energy and U.S. Department of Health and Human Services programs. \n\nWho’s welcome/Audience: Ohio’s weatherization providers, vendors, sponsors, and private contractors. All are welcome. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141030T050000Z
+DTEND:20141031T050000Z
+UID:20171110T055422Z-345
+DTSTAMP:20171110T055422Z
+SUMMARY:National Weatherization Day
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140922T050000Z
+DTEND:20140925T050000Z
+UID:20171110T055422Z-346
+DTSTAMP:20171110T055422Z
+SUMMARY:Heritage Ohio Annual Conference
+DESCRIPTION:Location: Kent State University Hotel and Conference Center\n215 S Depeyster St.\nKent, OH 44240\n\nBrief Description: Informational and training sessions on revitalization and historic issues for community revitalization and development professionals from Ohio. Register on Heritage Ohio’s website. \n\nRegister here: http://www.heritageohio.org/training-workshops/annual-conference/ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141022T050000Z
+DTEND:20141025T050000Z
+UID:20171110T055422Z-347
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Economic Development Association 2014 Annual Summit
+DESCRIPTION:Brief Description: Training and best practices on the challenges facing economic developers in Ohio. \n\nFor more information: http://www.ohioeda.com/AnnualSummit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141029T050000Z
+DTEND:20141031T050000Z
+UID:20171110T055422Z-348
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Conference of Community Development 2014 Fall Quarterly Meeting
+DESCRIPTION:Informational and training sessions on topical issues for community development practitioners from Ohio cities, counties, villages, nonprofit organization and consulting firms. \n\nFor more information: http://www.occd.org/calendar/2014/10/29/occd-fall-quarterly-2014
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150121T050000Z
+DTEND:20150123T050000Z
+UID:20171110T055422Z-349
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Conference of Community Development 2014 Winter Quarterly Meeting
+DESCRIPTION:Informational and training sessions on topical issues for community development practitioners from Ohio cities, counties, villages, nonprofit organization and consulting firms. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140911T050000Z
+DTEND:20140912T050000Z
+UID:20171110T055422Z-350
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Hearing on Needs Issues
+DESCRIPTION:Time: 1:30 p.m.\n\nThe purpose of the hearing is to receive comments regarding OCD-administered programs. This year the state will also update the PY 2015 - 2019 Needs Assessment and Strategy. OCD will post the Needs Assessment section of the document for review and comment on the OCD website on September 2, 2014. Verbal and written comments may be submitted during the hearing. Written comments also may be submitted by 5 p.m. on September 17, 2014, to Ian Thomas, Planner, Office of Community Development, 77 South High Street, 26th Floor, Room 1960, Columbus, Ohio 43215 or by email at Ian.Thomas@development.ohio.gov.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141014T050000Z
+DTEND:20141016T050000Z
+UID:20171110T055422Z-359
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Consolidated Plan Advisory Committee Meetings
+DESCRIPTION:Location: Creekside Conference and Event Center\n101 Mill Street, Suite 300\nGahanna, OH 43230
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T180000Z
+DTEND:20140910T200000Z
+UID:20171110T055422Z-360
+DTSTAMP:20171110T055422Z
+SUMMARY:The Local Government Innovation Council Round 10 Awards and Policy Meeting
+DESCRIPTION:The Local Government Innovation Council Round 10 Awards and Policy Meeting\nWednesday, September 10, 2014 at 1:00 p.m.\nVern Riffe Center for Government, 31st Floor, South Room\n77 South High Street\nColumbus, Ohio 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140909T180000Z
+DTEND:20140909T200000Z
+UID:20171110T055422Z-363
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The Governor’s Executive Workforce Board Meeting will be held Tuesday, September 9, 2014, from 1 – 3 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs and resources across state government to improve effectiveness, efficiency and accountability.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141112T150000Z
+DTEND:20141112T170000Z
+UID:20171110T055422Z-364
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:Location: TechColumbus, 1275 Kinnear Road, Columbus, Ohio, 43212
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T133000Z
+DTEND:20140917T203000Z
+UID:20171110T055422Z-365
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission Retreat
+DESCRIPTION:Ohio Third Frontier Advisory Board and Commission Retreat\nDeer Creek State Park -\n20635 State Park Road 20\nMt. Sterling, Ohio 43143
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140919T150000Z
+DTEND:20140919T170000Z
+UID:20171110T055422Z-366
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Committee will meet Friday, September 19, 2014 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor, in room South B & C. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140924T140000Z
+DTEND:20140924T190000Z
+UID:20171110T055422Z-367
+DTSTAMP:20171110T055422Z
+SUMMARY:Resources to Grow Your Minority Owned Business
+DESCRIPTION:This event provides an opportunity for minority owned businesses to connect one-on-one with state agency purchasing officials. This event also includes workshops on the following topics: Available financing programs; How to use MBE projection plans and work with agency contacts; How to prepare/respond to a state bid.\n\nKing Arts Complex; 867 Mt. Vernon Avenue; Columbus, Ohio 43203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141119T050000Z
+DTEND:20141122T050000Z
+UID:20171110T055422Z-368
+DTSTAMP:20171110T055422Z
+SUMMARY:2014 Community Development Training Conference
+DESCRIPTION:2014 Community Development Training Conference, November 19-21 at Sawmill Creek Resort and Conference Center - Huron, Ohio\n\nFor session and registration information, click here: http://1.usa.gov/1nMC1nb
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141006T180000Z
+DTEND:20141006T200000Z
+UID:20171110T055422Z-369
+DTSTAMP:20171110T055422Z
+SUMMARY:Housing and Homelessness Collaborative
+DESCRIPTION:The Housing and Homelessness Collaborative will meet on Monday, October 6, 2014 at 1 p.m. – 3 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor.  The Housing and Homelessness Collaborative, an interagency group, works to develop a comprehensive approach to address housing and homelessness in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141015T143000Z
+DTEND:20141015T170000Z
+UID:20171110T055422Z-370
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board
+DESCRIPTION:The Public Benefits Advisory Board will meet on Wednesday, October 15 at 9:30 a.m.  The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, in Room South B&C on the 31st Floor.  The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to ensure that energy services are provided to low-income consumers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150212T150000Z
+DTEND:20150212T160000Z
+UID:20171110T055422Z-371
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150416T150000Z
+DTEND:20150416T180000Z
+UID:20171110T055422Z-372
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission
+DESCRIPTION:The Ohio Third Frontier Advisory Board and Commission will meet on Thursday, April 16, 2015, at 10:00 a.m. The meeting will be held at Rev1 Ventures, 1275 Kinnear Road, Columbus, Ohio, 43212. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio. The Ohio Third Frontier Advisory Board provides input to the commission relevant to advancing the goals of the programs it administers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150917T150000Z
+DTEND:20150917T213000Z
+UID:20171110T055422Z-375
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board
+DESCRIPTION:The Ohio Third Frontier Commission will meet on Thursday, September 17, 2015 from 10:00 a.m. – 10:45 a.m. at the Holiday Inn, 175 East Town Street in Columbus, Ohio, 43215. The Ohio Third Frontier Advisory Board will join the Commission in a working session from 11:00 a.m. – 4:30 p.m. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141113T180000Z
+DTEND:20141113T210000Z
+UID:20171110T055422Z-378
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:Location: Vern Riffe Building 77 South High Street, 19th Floor, Room 1932
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141217T153000Z
+DTEND:20141217T173000Z
+UID:20171110T055422Z-379
+DTSTAMP:20171110T055422Z
+SUMMARY:PTAC: Subcontracting for Success Webinar
+DESCRIPTION:Opening the Door to Federal Subcontracting: Who Buys Your Product?\nLearn how to use valuable, data mining tools to find the best-fit opportunities for your company.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150114T153000Z
+DTEND:20150114T173000Z
+UID:20171110T055422Z-380
+DTSTAMP:20171110T055422Z
+SUMMARY:PTAC: Subcontracting for Success Webinar
+DESCRIPTION:Doing Business with Lockheed Martin\nLearn what the Federal Government's largest contractor is looking for from subcontractors. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150128T153000Z
+DTEND:20150128T173000Z
+UID:20171110T055422Z-381
+DTSTAMP:20171110T055422Z
+SUMMARY:PTAC: Subcontracting for Success Webinar
+DESCRIPTION:Building Your Subcontracting Profile\nLearn how to identify and market your company's competitive advantage as a subcontractor.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150211T153000Z
+DTEND:20150211T173000Z
+UID:20171110T055422Z-382
+DTSTAMP:20171110T055422Z
+SUMMARY:PTAC: Subcontracting for Success Webinar
+DESCRIPTION:Doing Business with Battelle\nLearn about doing business with Ohio's Battelle Memorial Institute, the world's largest nonprofit research and development organization.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150225T153000Z
+DTEND:20150225T173000Z
+UID:20171110T055422Z-383
+DTSTAMP:20171110T055422Z
+SUMMARY:PTAC: Subcontracting for Success Webinar
+DESCRIPTION:Doing Business with Fluor B&W\nLearn about subcontracting initiatives with one of Ohio's largest federal contractors, to restore over 10 million square feet of contaminated facilities in Pike County, Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141209T180000Z
+DTEND:20141209T200000Z
+UID:20171110T055422Z-384
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:Governor’s Executive Workforce Board Meeting Tuesday, December 9, 2014, 1:00 – 3:00 p.m. Columbus, OH at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B & C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141211T150000Z
+DTEND:20141211T170000Z
+UID:20171110T055422Z-385
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee 
+DESCRIPTION:Home Weatherization Assistance Program Policy Advisory Committee Thursday, December 11, 2014, 10:00 a.m. – 12:00 p.m. Columbus, OH at the Vern Riffe Building, 77 South High Street, on the 31st floor, in room South B & C.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141216T190000Z
+DTEND:20141216T200000Z
+UID:20171110T055422Z-386
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Venture Capital Authority meeting 
+DESCRIPTION:Vern Riffe Building, 77 South High Street, 31st floor, room East B
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141217T180000Z
+DTEND:20141217T200000Z
+UID:20171110T055422Z-387
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council meeting
+DESCRIPTION:Vern Riffe Building, 77 South High Street, 31st floor, rooms South B & C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141218T150000Z
+DTEND:20141218T170000Z
+UID:20171110T055422Z-388
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Council meeting
+DESCRIPTION:Vern Riffe Building, 77 South High Street, 19th floor, room 1960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141229T150000Z
+DTEND:20141229T170000Z
+UID:20171110T055422Z-389
+DTSTAMP:20171110T055422Z
+SUMMARY:Percentage of Income Payment Plan Plus Rules Public Hearing 
+DESCRIPTION:The Ohio Development Services Agency will hold a public hearing on the proposed changes to the Percentage of Income Payment Plan Plus rules on Monday, December 29, 2014 at 10 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor, in South Room B&C.  At this hearing, interested parties will be able to provide verbal or written comment on the proposed changes to the Percentage of Income Payment Plan Plus rules.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150120T140000Z
+DTEND:20150120T210000Z
+UID:20171110T055422Z-390
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2015 Community Housing Impact and Preservation (CHIP) Program Application Training
+DESCRIPTION:Registration will begin at 8:30 a.m. \n\nThe Office of Community Development will provide program application materials and detailed instructions to CHIP-eligible units of local government applying for funding through the Community Housing Impact and Preservation (CHIP) Program in 2015.  Registration is not required.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150122T180000Z
+DTEND:20150122T200000Z
+UID:20171110T055422Z-391
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:Vern Riffe Center, 31st Floor – South A\n77 S. High Street\nColumbus, Ohio 43215\nThe TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.\n 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150126T150000Z
+DTEND:20150126T170000Z
+UID:20171110T055422Z-392
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:Vern Riffe Center, 31st Floor\n77 S. High Street\nColumbus, Ohio 43215\n\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150223T150000Z
+DTEND:20150223T190000Z
+UID:20171110T055422Z-393
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150330T150000Z
+DTEND:20150330T190000Z
+UID:20171110T055422Z-394
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150427T150000Z
+DTEND:20150427T190000Z
+UID:20171110T055422Z-395
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150601T150000Z
+DTEND:20150601T190000Z
+UID:20171110T055422Z-396
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150727T150000Z
+DTEND:20150727T190000Z
+UID:20171110T055422Z-398
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150831T150000Z
+DTEND:20150831T190000Z
+UID:20171110T055422Z-399
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150928T150000Z
+DTEND:20150928T190000Z
+UID:20171110T055422Z-400
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151026T150000Z
+DTEND:20151026T190000Z
+UID:20171110T055422Z-401
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor.\nThe Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150210T143000Z
+DTEND:20150210T170000Z
+UID:20171110T055422Z-403
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2015 Consolidated Plan Advisory Committee
+DESCRIPTION:The meeting will be held in the Alumni Lounge at the Fawcett Event Center at 2400 Olentangy River Rd, Columbus, OH 43210. The purpose of the meeting is to present and discuss the Draft Fiscal Year 2015 Consolidated Plan. The plan outlines guidelines for programs administered by the Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150226T150000Z
+DTEND:20150226T190000Z
+UID:20171110T055422Z-404
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Council 
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor. The Council will be selecting grants for funding from a pool of applicants in their twelfth round. The Council oversees two programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150305T150000Z
+DTEND:20150305T170000Z
+UID:20171110T055422Z-405
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in Room South B&C.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150309T153000Z
+DTEND:20150309T170000Z
+UID:20171110T055422Z-406
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Development Block Grant – Natural Disaster Resiliency
+DESCRIPTION:The Ohio Development Services Agency (ODSA), in partnership with the Board of Adams County Commissioners, will hold a public hearing on the Community Development Block Grant – Natural Disaster Resiliency application on Monday March 9, 2015 at 10:30 a.m. – 12:00 p.m. The hearing will be held at the Adams County Commissioners Office, 215 North Cross Street, Suite 102, West Union, Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150310T180000Z
+DTEND:20150310T203000Z
+UID:20171110T055422Z-407
+DTSTAMP:20171110T055422Z
+SUMMARY:The Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B & C. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs and resources across state government to improve effectiveness, efficiency and accountability. For more information please visit http://workforce.ohio.gov/Board.aspx\n 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150312T183000Z
+DTEND:20150312T203000Z
+UID:20171110T055422Z-408
+DTSTAMP:20171110T055422Z
+SUMMARY:The Draft Fiscal Year 2015 Consolidated Plan, Draft Program Year 2015 – 2019 Ohio Consolidated Plan and Program Year 2015 Annual Action Plan Public Hearing
+DESCRIPTION:The Draft Fiscal Year 2015 Consolidated Plan, Draft Program Year 2015 – 2019 Ohio Consolidated Plan and Program Year 2015 Annual Action Plan Public Hearing will take place Thursday, March 12, 2015 at 1:30 p.m. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street, in Room 1960 on the 19th Floor. The purpose of the public hearing is to receive testimony regarding the Draft Fiscal Year 2015 Consolidated Plan and Draft PY 2015 – PY 2019 Ohio Consolidated Plan and PY 2015 Annual Action Plan. The plan outlines guidelines for programs administered by the Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150609T180000Z
+DTEND:20150609T200000Z
+UID:20171110T055422Z-409
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B&C.\nThe Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs and resources across state government to improve effectiveness, efficiency and accountability. For more information please visit http://workforce.ohio.gov/Board.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150908T180000Z
+DTEND:20150908T200000Z
+UID:20171110T055422Z-410
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B&C.\nThe Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs and resources across state government to improve effectiveness, efficiency and accountability. For more information please visit http://workforce.ohio.gov/Board.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150728T050000Z
+DTEND:20150729T050000Z
+UID:20171110T055422Z-412
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in Room South B&C.\nThe Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150903T150000Z
+DTEND:20150903T170000Z
+UID:20171110T055422Z-416
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Council
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th Floor, Room 1960. The Council will be reviewing grants for funding from a pool of applicants. The Council oversees two programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150324T150000Z
+DTEND:20150324T160000Z
+UID:20171110T055422Z-418
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South A.  The Minority Development Financing Advisory Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150428T150000Z
+DTEND:20150428T160000Z
+UID:20171110T055422Z-419
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South A.  The Minority Development Financing Advisory Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150526T150000Z
+DTEND:20150526T160000Z
+UID:20171110T055422Z-420
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South A.  The Minority Development Financing Advisory Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150623T150000Z
+DTEND:20150623T160000Z
+UID:20171110T055422Z-421
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South A.  The Minority Development Financing Advisory Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150728T150000Z
+DTEND:20150728T160000Z
+UID:20171110T055422Z-422
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South A.  The Minority Development Financing Advisory Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150318T180000Z
+DTEND:20150318T200000Z
+UID:20171110T055422Z-427
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South B&C. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150916T180000Z
+DTEND:20150916T200000Z
+UID:20171110T055422Z-429
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council
+DESCRIPTION:The Minority Business Advisory Council will meet on Wednesday, September 16, 2015 at 1:00 p.m. *Updated Location* The meeting will be held at the Central Ohio Minority Business Association (COMBA) located at 1393 East Broad Street, Columbus, OH 43205. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151216T180000Z
+DTEND:20151216T200000Z
+UID:20171110T055422Z-430
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South B&C. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150326T180000Z
+DTEND:20150326T200000Z
+UID:20171110T055422Z-431
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio. At Experience Columbus, 277 W. Nationwide Blvd. #125 Columbus, OH 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150519T183000Z
+DTEND:20150519T203000Z
+UID:20171110T055422Z-432
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held at the Buxton Inn, 313 East Broadway, Granville, OH 43023. The Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.\n 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150929T160000Z
+DTEND:20150929T180000Z
+UID:20171110T055422Z-434
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The TourismOhio Advisory Board will meet on Tuesday, September 29, 2015 at 11:00 a.m. The meeting will be held at Young’s Jersey Dairy, 6880 Springfield-Xenia Road, Yellow Springs, OH 45387. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150420T180000Z
+DTEND:20150420T200000Z
+UID:20171110T055422Z-436
+DTSTAMP:20171110T055422Z
+SUMMARY:The Bureau of Workers’ Compensation Board of Directors Nominating Committee
+DESCRIPTION:The meeting will be held in Columbus, Ohio at the Vern Riffe Building, 77 South High Street, in the South Conference Rooms B & C on the 31st floor. The Committee will review and make recommendations to the Governor for the appointment of members to the Bureau of Workers’ Compensation Board of Directors.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150424T170000Z
+DTEND:20150424T190000Z
+UID:20171110T055422Z-437
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Public Meeting - Champaign, Logan and Shelby counties
+DESCRIPTION:The Ohio Development Services Agency will hold a public meeting to hear comments on the Community Services Block Grant provider in Champaign, Logan and Shelby counties. The meeting will be held at the Logan County Library, 220 N. Main Street, Bellefontaine, Ohio 43311 from noon to 2 p.m. During the meeting the Development Services Agency will take comments on the delivery of serves and programs funded by the Community Services Block Grant. The public meeting is part of the process to designate a new permanent provider of Community Block Grant Services in Champaign, Logan and Shelby counties.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150429T150000Z
+DTEND:20150429T180000Z
+UID:20171110T055422Z-438
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Public Meeting
+DESCRIPTION:The Ohio Development Services Agency will hold a public meeting to hear comments on the proposed plan for the Program Year 2015 Home Weatherization Assistance Program. The meeting will be held at the Vern Riffe Center, 77 South High Street, 31st floor, Room South A, Columbus, Ohio 43216 at 10:00 a.m. – 1:00 p.m., or until all comments are heard. The Home Weatherization Assistance Program provides weatherization services to Ohioans at or below 200 percent of federal poverty guidelines.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150506T170000Z
+DTEND:20150506T190000Z
+UID:20171110T055422Z-439
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Public Meeting - Mercer and Auglaize counties
+DESCRIPTION:The Ohio Development Services Agency will hold a public meeting to hear comments on the Community Services Block Grant provider in Mercer and Auglaize counties. The meeting will be held at the St. Marys Community Public Library, 140 S. Chestnut Street, St. Marys, Ohio 45885 from noon to 2 p.m. During the meeting the Development Services Agency will take comments on the delivery of serves and programs funded by the Community Services Block Grant. The public meeting is part of the process to designate a new permanent provider of Community Block Grant Services in Mercer and Auglaize counties.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150514T143000Z
+DTEND:20150514T200000Z
+UID:20171110T055422Z-440
+DTSTAMP:20171110T055422Z
+SUMMARY:The Public Benefits Advisory Board Meeting
+DESCRIPTION:The Public Benefits Advisory Board will meet on May 14, 2015 at 9:30 a.m. The meeting will be held in Columbus at the Riffe Building, 77 S. High Street, 31st Floor Room South B&C. The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150413T150000Z
+DTEND:20150413T160000Z
+UID:20171110T055422Z-441
+DTSTAMP:20171110T055422Z
+SUMMARY:Alternative Fuels Program Public Hearing
+DESCRIPTION:The Ohio Development Services Agency will hold an Alternative Fuels Program Public Hearing on Monday, April 13, 2015 at 10:00 a.m. The public hearing will be held at the Verne Riffe Building, 77 South High Street, Columbus, Ohio, 43215 on the 31st Floor in the East Conference Room B. The purpose of the public hearing is to present program rule revisions and solicit public comment for the Alternative Fuels Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150430T180000Z
+DTEND:20150430T190000Z
+UID:20171110T055422Z-443
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Thursday, April 30, 2015, at 1:00 p.m.  The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor, in rooms West B and C. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150501T150000Z
+DTEND:20150501T210000Z
+UID:20171110T055422Z-444
+DTSTAMP:20171110T055422Z
+SUMMARY:CSBG Organizational Standards Meeting
+DESCRIPTION:The Office of Community Assistance (OCA) is hosting a meeting with the Ohio Community Action Training Organization and the Community Action Partnership on Friday, May 1, 2015, from 10:00 a.m. to 4:00 pm. The meeting will be held at the DoubleTree by Hilton Columbus-Worthington, located at 175 Hutchinson Avenue, Columbus, Ohio 43235. The purpose of the meeting is to discuss where Ohio agencies stand now in relation to the standards, explain OCA's plans for formally assessing agencies on the standards in 2016, and obtain input from Ohio's community action agencies.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150512T170000Z
+DTEND:20150512T190000Z
+UID:20171110T055422Z-445
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant (CSBG) Meeting
+DESCRIPTION:To provide residents and other community stakeholders an opportunity to comment on delivery of services and programs funded by the Community Services Block Grant (CSBG). CSBG serves households at 125% of the federal poverty level.   The public meeting is a part of the process for designation of a permanent provider of CSBG-funded services in Geauga County. Geauga West Library, 13455 Chillicothe Road, Chesterland, Ohio 44026. Telephone: (440) 729-4250
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150520T170000Z
+DTEND:20150520T190000Z
+UID:20171110T055422Z-446
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Public Meeting - Champaign, Logan, and Shelby counties
+DESCRIPTION:The Ohio Development Services Agency will hold a public meeting to hear comments on the Community Services Block Grant provider in Champaign, Logan, and Shelby counties. The meeting will be held at the Adams Township Town Hall in Rosewood, 11117 Bodey Street, Rosewood, Ohio 43070 from noon to 2 p.m. During the meeting the Development Services Agency will take comments on the delivery of serves and programs funded by the Community Services Block Grant. The public meeting is part of the process to designate a new permanent provider of Community Block Grant Services in Champaign, Logan, and Shelby counties.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150602T173000Z
+DTEND:20150602T203000Z
+UID:20171110T055422Z-447
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing Trust Fund Advisory Committee Meeting
+DESCRIPTION:The Ohio Housing Trust Fund Advisory Committee and specified members will meet to discuss State Fiscal Year (SFY) 2016 Ohio Housing Trust Fund allocation recommendations. The meeting will be held in Columbus on Tuesday, June 2, 2015, at 12:30 p.m. at the Verne Riffe Building, 77 South High Street, on the 31st Floor in Room East B. The committee is charged with assisting the Ohio Development Services Agency in defining housing needs and priorities, recommending program updates to effectively benefit low- and moderate-income persons and advising the Agency Director on distributing money from the Ohio Housing Trust Fund.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150617T180000Z
+DTEND:20150617T200000Z
+UID:20171110T055422Z-449
+DTSTAMP:20171110T055422Z
+SUMMARY:The Minority Business Advisory Council
+DESCRIPTION:The Minority Business Advisory Council will meet on Wednesday, June 17, 2015 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor, in rooms South B & C. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150629T150000Z
+DTEND:20150629T170000Z
+UID:20171110T055422Z-450
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Tax Credit Authority Meeting
+DESCRIPTION:The Ohio Tax Credit Authority Meeting\nVern Riffe Center\n77 South High Street\n31st Floor, Room South A\nColumbus, Ohio 43215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150728T180000Z
+DTEND:20150728T190000Z
+UID:20171110T055422Z-452
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Venture Capital Authority
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor, Room 1952. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150730T153000Z
+DTEND:20150730T190000Z
+UID:20171110T055422Z-453
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Thursday, July 30, 2015 at 10:30 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th Floor in Room 1960. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150818T150000Z
+DTEND:20150818T170000Z
+UID:20171110T055422Z-454
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Advisory Committee Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, 19th Floor Room 1960.  The Community Services Block Grant Advisory Committee advises the Ohio Development Services Agency Director on the model state plan for the Community Services Block Grant for Program Year beginning January 1, 2016 – December 31, 2017.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150820T180000Z
+DTEND:20150820T200000Z
+UID:20171110T055422Z-455
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Public Hearing 
+DESCRIPTION:The meeting will be held in Columbus at the State Library, 274 E. First Avenue, Columbus, Ohio 43201. The hearing will provide members of the public an opportunity to comment on the 2016-2017 Community Services Block Grant State Plan and the use of Block Grant resources.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150604T150000Z
+DTEND:20150604T170000Z
+UID:20171110T055422Z-456
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Fund Council meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th Floor, Room 1960. The Council will be reviewing grants for funding from a pool of applicants in their 13th round. The Council oversees two programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150909T180000Z
+DTEND:20150909T190000Z
+UID:20171110T055422Z-457
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2016 Ohio Consolidated Plan Public Needs Hearing
+DESCRIPTION:The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 19th Floor in Room 1960. The purpose of the public hearing is to receive comments regarding programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150909T190000Z
+DTEND:20150909T200000Z
+UID:20171110T055422Z-458
+DTSTAMP:20171110T055422Z
+SUMMARY:State Fiscal Year 2017 Ohio Housing Trust Fund Public Needs Hearin
+DESCRIPTION:The State Fiscal Year 2017 Ohio Housing Trust Fund Public Needs Hearing will be held Wednesday, September 9, 2015 immediately following the Program Year 2016 Ohio Consolidated Plan Public Needs Hearing. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 19th Floor in Room 1960. The purpose of the public hearing is to receive comments regarding Ohio Housing Trust Fund programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150924T200000Z
+DTEND:20150924T220000Z
+UID:20171110T055422Z-459
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Thursday, September 24, 2015, at 3:00 p.m.  The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150929T143000Z
+DTEND:20150929T213000Z
+UID:20171110T055422Z-460
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2015 Consolidated Plan Program Advisory Committee
+DESCRIPTION:The Program Year 2015 Consolidated Plan Program Advisory Committee will meet on Tuesday, September 29 and Wednesday, September 30 from 9:30 a.m. until 4 p.m. each day. The meetings will be held at the Creekside Conference and Event Center, 101 Mill Street, Suite 300, Gahanna, Ohio 43230. The Program Advisory Committee will review the Program Year 2016 Consolidated Plan, which outlines program priorities for the Development Services Agency’s Office of Community Development. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151008T150000Z
+DTEND:20151008T170000Z
+UID:20171110T055422Z-462
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Thursday, October 8, 2015 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room East B. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151015T143000Z
+DTEND:20151015T160000Z
+UID:20171110T055422Z-463
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board
+DESCRIPTION:The Public Benefits Advisory Board will meet on Thursday, October 15, 2015, at 9:30 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in rooms South B&C. The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to support energy services provided to low-income Ohioans.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151217T150000Z
+DTEND:20151217T173000Z
+UID:20171110T055422Z-464
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission Meeting
+DESCRIPTION:A joint meeting will be held from 10:00 a.m. to 12:30 p.m., immediately followed by a Commission business meeting that is expected to end by 2:00 pm. The meeting location will be Rev1 Ventures (formerly TechColumbus). 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151110T150000Z
+DTEND:20151110T160000Z
+UID:20171110T055422Z-466
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in Rooms West B&C. The Board provides the Director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151118T190000Z
+DTEND:20151118T210000Z
+UID:20171110T055422Z-469
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The TourismOhio Advisory Board will meet on Wednesday, November 18, 2015 at 2:00 p.m. The meeting will be held at Muirfield Village Golf Club, 5750 Memorial Drive, Dublin, Ohio 43017. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151112T180000Z
+DTEND:20151112T200000Z
+UID:20171110T055422Z-470
+DTSTAMP:20171110T055422Z
+SUMMARY:Bidders’ Conference for the Home Weatherization Assistance Program Request for Proposal 
+DESCRIPTION:The Ohio Development Services Agency will hold a Bidders’ Conference for the Home Weatherization Assistance Program Request for Proposal (DEV16HWAP) on Thursday, November 12, 2015 at 1 p.m. at the Ohio Fire Academy, State Fire Marshal’s Office, 8895 East Main Street, Reynoldsburg, Ohio 43068. The Bidders’ Conference provides interested parties with the opportunity to ask questions about the Home Weatherization Assistance Program and the current Request for Proposal.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151211T143000Z
+DTEND:20151211T153000Z
+UID:20171110T055422Z-472
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in rooms South B&C. The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to support energy services provided to low-income Ohioans.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151215T150000Z
+DTEND:20151215T170000Z
+UID:20171110T055422Z-473
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151203T150000Z
+DTEND:20151203T170000Z
+UID:20171110T055422Z-474
+DTSTAMP:20171110T055422Z
+SUMMARY:The Local Government Innovation Council Meeting
+DESCRIPTION:The Local Government Innovation Council will meet on Thursday, December 3, 2015 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th Floor, Room 1932. The Council will be reviewing projects for funding from a pool of applicants in their 15th round. The Council oversees programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151208T180000Z
+DTEND:20151208T200000Z
+UID:20171110T055422Z-475
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The Governor’s Executive Workforce Board Meeting will meet on Tuesday, December 8, 2015 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B & C. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs and resources across state government to improve effectiveness, efficiency and accountability. For more information please visit http://workforce.ohio.gov/Board.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161027T150000Z
+DTEND:20161027T170000Z
+UID:20171110T055422Z-480
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Commission will meet on Thursday, October 27, 2016 at 10:00 a.m. at Rev1 Ventures, 1275 Kinnear Rd, Columbus, OH 43212.  The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160414T150000Z
+DTEND:20160414T170000Z
+UID:20171110T055422Z-481
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Advisory Board and Commission will meet on Thursday, April 14, 2016 at 10:00 a.m. at Rev1 Ventures, 1275 Kinnear Rd, Columbus, OH 43212.  The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160914T150000Z
+DTEND:20160914T213000Z
+UID:20171110T055422Z-482
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Advisory Board and Commission will meet on Wednesday, September 14, 2016 at 10:00 a.m. The meeting will be held at the State of Ohio Library, 274 East 1st Avenue #100, Columbus, OH 43201. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.  The Ohio Third Frontier Advisory Board provides input to the commission relevant to advancing the goals of the programs it administers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161208T150000Z
+DTEND:20161208T170000Z
+UID:20171110T055422Z-483
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission and Advisory Board Meetings
+DESCRIPTION:The meetings will be held at the State of Ohio Library, 274 East 1st Avenue #100, Columbus, OH 43201. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio. The Advisory Board provides input to the Commission relevant to advancing the goals of the programs it administers.\n 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160114T170000Z
+DTEND:20160114T200000Z
+UID:20171110T055422Z-485
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee Meeting
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Thursday, January 14, 2016 at 2 p.m. The meeting will be held in Columbus at Rhodes State Office Tower, 30 East Broad Street, on the 18th floor in Room 1865. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160125T150000Z
+DTEND:20160125T160000Z
+UID:20171110T055422Z-486
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160126T150000Z
+DTEND:20160126T160000Z
+UID:20171110T055422Z-487
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st  Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160223T150000Z
+DTEND:20160223T160000Z
+UID:20171110T055422Z-488
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The Minority Development Financing Advisory Board will meet on Tuesday, February 23, 2016 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in Room East B.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160229T150000Z
+DTEND:20160229T160000Z
+UID:20171110T055422Z-489
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160316T180000Z
+DTEND:20160316T200000Z
+UID:20171110T055422Z-490
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor in room East B. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160328T150000Z
+DTEND:20160328T160000Z
+UID:20171110T055422Z-492
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160425T150000Z
+DTEND:20160425T160000Z
+UID:20171110T055422Z-493
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160426T150000Z
+DTEND:20160426T160000Z
+UID:20171110T055422Z-494
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board 
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160519T150000Z
+DTEND:20160519T170000Z
+UID:20171110T055422Z-495
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Council Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, 31st Floor, Rooms West B & C. The Council will be reviewing projects for funding from a pool of applicants. The Council oversees programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160523T150000Z
+DTEND:20160523T160000Z
+UID:20171110T055422Z-496
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160524T150000Z
+DTEND:20160524T160000Z
+UID:20171110T055422Z-497
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th Floor in room 1932. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160615T180000Z
+DTEND:20160615T200000Z
+UID:20171110T055422Z-498
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Business Advisory Council Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in room 1932. The Minority Business Advisory Council helps create policies and programming ideas to improve Ohio’s business climate for minority businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160627T150000Z
+DTEND:20160627T160000Z
+UID:20171110T055422Z-499
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160725T150000Z
+DTEND:20160725T160000Z
+UID:20171110T055422Z-501
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160823T150000Z
+DTEND:20160823T160000Z
+UID:20171110T055422Z-504
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board 
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st  Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160829T150000Z
+DTEND:20160829T160000Z
+UID:20171110T055422Z-505
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160926T150000Z
+DTEND:20160926T160000Z
+UID:20171110T055422Z-507
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161031T150000Z
+DTEND:20161031T160000Z
+UID:20171110T055422Z-510
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state. The Authority is charged with reviewing and approving applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161117T150000Z
+DTEND:20161117T170000Z
+UID:20171110T055422Z-511
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Council Meeting
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Wednesday, November 16, 2016 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor, Room 1932. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T150000Z
+DTEND:20161206T160000Z
+UID:20171110T055422Z-512
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161205T150000Z
+DTEND:20161205T160000Z
+UID:20171110T055422Z-513
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority 
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160202T143000Z
+DTEND:20160202T163000Z
+UID:20171110T055422Z-515
+DTSTAMP:20171110T055422Z
+SUMMARY:Consolidated Plan Advisory Committee
+DESCRIPTION:Program Year 2016 Consolidated Plan Advisory Committee will meet on Tuesday, February 2, 2016 at 9:30 a.m. The meeting will be held in Columbus at the Fawcett Center Alumni Lounge, 2400 Olentangy River Rd, Columbus, OH 43210. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160225T180000Z
+DTEND:20160225T190000Z
+UID:20171110T055422Z-520
+DTSTAMP:20171110T055422Z
+SUMMARY:The TourismOhio Advisory Board 
+DESCRIPTION:The TourismOhio Advisory Board will meet on Thursday, February 25, 2016 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in the North Room.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160225T180000Z
+DTEND:20160225T190000Z
+UID:20171110T055422Z-521
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Hearing
+DESCRIPTION:A Public Hearing will be held by the Ohio Development Services Agency on Thursday, February 25, 2016 at 1:00pm in Room 1952 on the 19th Floor of the Vern Riffe Center, located at 77 South High St, Columbus, Ohio 43215. The purpose of the hearing is to solicit public comment on rules related to Lakes in Economic Distress Revolving Loan Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160303T150000Z
+DTEND:20160303T160000Z
+UID:20171110T055422Z-522
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee Meeting
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Thursday, March 3, 2016 at 10 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, 43215 on the 31st Floor in Rooms West B&C. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160308T180000Z
+DTEND:20160308T220000Z
+UID:20171110T055422Z-523
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting 
+DESCRIPTION:The Governor’s Executive Workforce Board Meeting will meet on Tuesday, March 8, 2016 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B & C.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160324T180000Z
+DTEND:20160324T190000Z
+UID:20171110T055422Z-524
+DTSTAMP:20171110T055422Z
+SUMMARY:Bureau of Workers’ Compensation Board of Directors Nominating Committee
+DESCRIPTION:The Bureau of Workers’ Compensation Board of Directors Nominating Committee will meet on Thursday, March 24, 2016 at 1:00 p.m. The meeting will be held at the Vern Riffe Building, 77 South High Street, Columbus, Ohio, 43215 on the 31st floor in the South Conference Rooms B & C.  The Committee will review and make recommendations to the Governor for the appointment of members to the Bureau of Workers’ Compensation Board of Directors.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160412T190000Z
+DTEND:20160412T200000Z
+UID:20171110T055422Z-525
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Committee will meet on Tuesday, April 12, 2016 at 2:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in Room 1960. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160415T183000Z
+DTEND:20160415T193000Z
+UID:20171110T055422Z-526
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Weatherization Assistance Program State Plan Public Hearing
+DESCRIPTION:The Home Weatherization Assistance Program State Plan Public Hearing will be held Friday, April 15, 2016 at 1:30 p.m. until all public comments are heard. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in Room 1952. The Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the hearing, Ohio Development Services Agency staff will take comments regarding the Program Year 2016 Home Weatherization Assistance Program State Plan.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160413T180000Z
+DTEND:20160413T190000Z
+UID:20171110T055422Z-527
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Wednesday, April 13, 2016, at 1:00 p.m.  The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in Room 1960. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160721T150000Z
+DTEND:20160721T190000Z
+UID:20171110T055422Z-529
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Committee will meet on Thursday, July 21, 2016 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in Room 1952. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160914T150000Z
+DTEND:20160914T190000Z
+UID:20171110T055422Z-530
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Committee will meet on Thursday, September 14, 2016 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor in Room South B&C. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T150000Z
+DTEND:20161209T170000Z
+UID:20171110T055422Z-531
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in Room 1948. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160607T173000Z
+DTEND:20160607T200000Z
+UID:20171110T055422Z-532
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing Trust Fund Advisory Committee Meeting
+DESCRIPTION:The Ohio Housing Trust Fund Advisory Committee will meet on Tuesday, June 7, 2016 at 12:30 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in Rooms West B&C. The committee is charged with assisting the Ohio Development Services Agency in defining housing needs and priorities, recommending program updates to effectively benefit low- and moderate-income persons and advising the Agency Director on distributing money from the Ohio Housing Trust Fund.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160627T143000Z
+DTEND:20160627T153000Z
+UID:20171110T055422Z-533
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room East B. The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to support energy services provided to low-income Ohioans.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160614T180000Z
+DTEND:20160614T200000Z
+UID:20171110T055422Z-534
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The Governor’s Executive Workforce Board Meeting will meet on Tuesday, June 14, 2016 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in room South B & C.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160630T160000Z
+DTEND:20160630T170000Z
+UID:20171110T055422Z-535
+DTSTAMP:20171110T055422Z
+SUMMARY:Public hearing for the Ohio Consolidated Plan National Housing Trust Fund Substantial Amendment
+DESCRIPTION:The Ohio Development Services Agency will hold a public hearing for the Ohio Consolidated Plan National Housing Trust Fund Substantial Amendment on Thursday, June 30, 2016 at 11 a.m. The hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 19th Floor in Room 1932. The Ohio Consolidated Plan will govern how Ohio distributes approximately $3.7 million in National Housing Trust Funds from the U.S. Department of Housing and Urban Development. A copy of the Ohio Consolidated Plan and is available for review at https://www.development.ohio.gov/cs/cs_ocp.htm.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160714T183000Z
+DTEND:20160714T193000Z
+UID:20171110T055422Z-537
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board
+DESCRIPTION:The TourismOhio Advisory Board will meet on Thursday, July 14, 2016 at 1:30 p.m. The meeting will be held in Columbus at the Cult Marketing Building, 175 S. 3rd Street, Suite 820. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160824T150000Z
+DTEND:20160824T170000Z
+UID:20171110T055422Z-538
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Council Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, 31st Floor. The Council will review projects for funding from a pool of applicants. The Council oversees programs which help communities in their efforts to promote collaboration among governments and cut costs for the services they provide.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160817T153000Z
+DTEND:20160817T170000Z
+UID:20171110T055422Z-539
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Wednesday, August 17, 2016 at 10:30 a.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st floor in Room West B & C. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160818T190000Z
+DTEND:20160818T200000Z
+UID:20171110T055422Z-540
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Legislative and Public Hearing
+DESCRIPTION:The Community Services Block Grant Legislative and Public Hearing will be held on Thursday, August 18, 2016 at 2:00 p.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in Room East B. The hearing will provide members of the public an opportunity to comment on the 2016-2017 Community Services Block Grant State Plan and the use of Block Grant resources.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160822T150000Z
+DTEND:20160822T160000Z
+UID:20171110T055422Z-541
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Energy Assistance Program Public Hearing
+DESCRIPTION:The Home Energy Assistance Program Public Hearing will be held Monday, August 22, 2016 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in Room South A. The Home Energy Assistance Program helps low-income Ohioans meet the needs of home energy costs. During the meeting, the Ohio Development Services Agency staff will take comments regarding the Home Energy Assistance Program 2017 State Plan.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160908T183000Z
+DTEND:20160908T203000Z
+UID:20171110T055422Z-542
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board
+DESCRIPTION:The TourismOhio Advisory Board will meet on Thursday, September 8, 2016 at 1:30 p.m. The meeting will be held in Columbus at the Columbus Metropolitan Main Library Auditorium, 96 S. Grant Avenue. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160913T180000Z
+DTEND:20160913T200000Z
+UID:20171110T055422Z-543
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The Governor’s Executive Workforce Board will meet on Tuesday, September 13, 2016 at 12:15 p.m. Board members will convene at the Honda Heritage Center, 24025 Honda Parkway, Marysville, Ohio 43040, for lunch and a presentation from Honda North America, Inc. at 12:15 p.m., and the official meeting will begin at 1:00 p.m.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160915T180000Z
+DTEND:20160915T200000Z
+UID:20171110T055422Z-544
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2017 Ohio Consolidated Plan Public Needs Hearing
+DESCRIPTION:The Program Year 2017 Ohio Consolidated Plan Public Needs Hearing will be held Thursday, September 15, 2016, at 1:00 p.m. in Columbus at the Vern Riffe Building, 77 South High Street, on the 19th floor in room 1960.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160915T183000Z
+DTEND:20160915T190000Z
+UID:20171110T055422Z-545
+DTSTAMP:20171110T055422Z
+SUMMARY:FY 2018 Ohio Housing Trust Fund Public Needs Hearing
+DESCRIPTION:The State Fiscal Year 2018 Ohio Housing Trust Fund Public Needs Hearing will be held Thursday, September 15, 2016, immediately following the Program Year 2017 Ohio Consolidated Plan Public Hearing (1:00 p.m.)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160927T180000Z
+DTEND:20160927T190000Z
+UID:20171110T055422Z-546
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2016 Home Weatherization Assistance Program RFP for Contested Territories Public Hearing
+DESCRIPTION:The Ohio Development Services Agency will hold a public hearing regarding the Request for Proposal (RFP) for the contested territories of the Program Year 2016 Home Weatherization Assistance Program. The hearing will be held on Tuesday, September 27, 2016, at 1:00 p.m. in the Vern Riffe Center, 77 South High Street, in Room South B &C on the 31st Floor. Incumbent providers will have the opportunity to present their RFP applications for Morrow County and portions of Franklin County.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160929T180000Z
+DTEND:20160929T190000Z
+UID:20171110T055422Z-547
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2016 Home Weatherization Assistance Program RFP for Contested Territories Public Hearing
+DESCRIPTION:The Ohio Development Services Agency will hold a public hearing regarding the Request for Proposal (RFP) for the contested territories of the Program Year 2016 Home Weatherization Assistance Program. The hearing will be held on Thursday, September 29, 2016, at 1:00 p.m. in the Vern Riffe Center, 77 South High Street, in Room 1952 on the 19th Floor. Providers will have the opportunity to present their RFP applications for open territories.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161005T180000Z
+DTEND:20161005T190000Z
+UID:20171110T055422Z-548
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2016 Home Weatherization Assistance Program RFP for Contested Territories Public Hearing
+DESCRIPTION:The Ohio Development Services Agency will hold a public hearing regarding the Request for Proposal (RFP) for Program Year 2016 Home Weatherization Assistance Program. The hearing will be held on Wednesday, October 5, 2016, at 1:00 p.m. in the Vern Riffe Center, 77 South High Street, in Room South B&C on the 31st Floor. The agency will announce the providers selected to serve the contested territory, and amend the Home Weatherization Assistance Program State Plan if necessary.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DTEND:20161020T160000Z
+UID:20171110T055422Z-549
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st Floor in room South B&C. The Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to support energy services provided to low-income Ohioans.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T143000Z
+DTEND:20161020T210000Z
+UID:20171110T055422Z-550
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2016 Consolidated Plan Program Advisory Committee
+DESCRIPTION:The meeting will be held at the Creekside Conference and Event Center, 101 Mill Street, Suite 300, Gahanna, Ohio 43230. The Committee will review the Program Year 2017 Consolidated Plan which outlines program priorities for the Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T143000Z
+DTEND:20161020T210000Z
+UID:20171110T055422Z-551
+DTSTAMP:20171110T055422Z
+SUMMARY:PY 2016 Consolidated Plan Program Advisory Committee
+DESCRIPTION:The meeting will be held at the Creekside Conference and Event Center, 101 Mill Street, Suite 300, Gahanna, Ohio 43230. The Committee will review the Program Year 2017 Consolidated Plan which outlines program priorities for the Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161024T153000Z
+DTEND:20161024T170000Z
+UID:20171110T055422Z-552
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The Governor’s Executive Workforce Board will meet on Monday, October 24, 2016 at 10:30 a.m. The meeting will be held at the State Library of Ohio, 274 East First Avenue, Columbus, Ohio 43201. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs, and resources across state government to improve effectiveness, efficiency, and accountability.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161116T180000Z
+DTEND:20161116T190000Z
+UID:20171110T055422Z-553
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Wednesday, November 16, 2016 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor in Room East B. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161213T180000Z
+DTEND:20161213T200000Z
+UID:20171110T055422Z-554
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the State Library of Ohio, 274 East First Avenue, Columbus, Ohio 43201. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs, and resources across state government to improve effectiveness, efficiency, and accountability.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161215T180000Z
+DTEND:20161215T200000Z
+UID:20171110T055422Z-556
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Ohio Statehouse, 1 Capitol Square, Columbus, Ohio 43215 in the State Room. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170118T183000Z
+DTEND:20170118T193000Z
+UID:20171110T055422Z-557
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing and Homelessness Collaborative
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st Floor in Rooms South B&C. The Collaborative is responsible for making recommendations for a long-term plan to support affordable housing and end chronic homelessness. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170119T170000Z
+DTEND:20170119T180000Z
+UID:20171110T055422Z-558
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st floor in Rooms South B & C. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170124T180000Z
+DTEND:20170124T190000Z
+UID:20171110T055422Z-559
+DTSTAMP:20171110T055422Z
+SUMMARY:Bureau of Workers’ Compensation Board of Directors Nominating Committee
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st floor in Rooms South B & C. The Committee will review and make recommendations to the Governor for the appointment of members to the Bureau of Workers’ Compensation Board of Directors.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170130T150000Z
+DTEND:20170130T160000Z
+UID:20171110T055422Z-560
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority also has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170124T150000Z
+DTEND:20170124T160000Z
+UID:20171110T055422Z-565
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170228T150000Z
+DTEND:20170228T160000Z
+UID:20171110T055422Z-566
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T150000Z
+DTEND:20170523T160000Z
+UID:20171110T055422Z-569
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170627T150000Z
+DTEND:20170627T160000Z
+UID:20171110T055422Z-570
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T150000Z
+DTEND:20171024T160000Z
+UID:20171110T055422Z-574
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T150000Z
+DTEND:20171205T160000Z
+UID:20171110T055422Z-575
+DTSTAMP:20171110T055422Z
+SUMMARY:Minority Development Financing Advisory Board
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in room East B. The Board provides the director of the Ohio Development Services Agency with recommendations for assistance through the Minority Business Direct Loan Program and the Minority Business Bonding Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170227T150000Z
+DTEND:20170227T160000Z
+UID:20171110T055422Z-576
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170327T150000Z
+DTEND:20170327T160000Z
+UID:20171110T055422Z-577
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170424T150000Z
+DTEND:20170424T160000Z
+UID:20171110T055422Z-578
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170522T150000Z
+DTEND:20170522T160000Z
+UID:20171110T055422Z-579
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170731T150000Z
+DTEND:20170731T160000Z
+UID:20171110T055422Z-581
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170830T150000Z
+DTEND:20170830T160000Z
+UID:20171110T055422Z-582
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T150000Z
+DTEND:20170925T160000Z
+UID:20171110T055422Z-583
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T150000Z
+DTEND:20171030T160000Z
+UID:20171110T055422Z-584
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T150000Z
+DTEND:20171204T160000Z
+UID:20171110T055422Z-585
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170202T180000Z
+DTEND:20170202T200000Z
+UID:20171110T055422Z-586
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Ohio History Connection, 800 East 17th Avenue, Columbus, Ohio 43211 in the Cardinal Room. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170127T140000Z
+DTEND:20170127T150000Z
+UID:20171110T055422Z-587
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program State Plan Public Hearing
+DESCRIPTION:The Hearing will be held in Columbus at the Vern Riffe Building, 77 South High Street, on the 31st floor in Room West B&C. The Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the hearing, Ohio Development Services Agency staff will take comments regarding the Program Year 2017 Home Weatherization Assistance Program State Plan. A copy of the current 2016 State Plan can be found on the Agency website: https://development.ohio.gov/is/is_energyassist.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170127T163000Z
+DTEND:20170127T173000Z
+UID:20171110T055422Z-588
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program State Plan Public Hearing
+DESCRIPTION:The Hearing will be held in Columbus at the Sheraton Columbus Hotel at Capital Square, 75 E. State Street, Columbus, in the Congressional Room. The Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the hearing, Ohio Development Services Agency staff will take comments regarding the Program Year 2017 Home Weatherization Assistance Program State Plan. A copy of the current 2016 State Plan can be found on the Agency website: https://development.ohio.gov/is/is_energyassist.htm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170131T160000Z
+DTEND:20170131T170000Z
+UID:20171110T055422Z-589
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Tuesday, January 31, 2017 at 11:00 a.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 19th floor in Room 1914. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170216T190000Z
+DTEND:20170216T200000Z
+UID:20171110T055422Z-590
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Coal Development Technical Advisory Committee
+DESCRIPTION:The Ohio Coal Development Technical Advisory Committee will meet on Thursday, February 16, 2017 at 2:00 p.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 19th floor in Room 1960. The Ohio Coal Technical Advisory Committee reviews and makes recommendations concerning Ohio coal development project proposals and other topics related to Ohio coal development.\n\nRiffe Center, 19th Floor, Room 1960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170307T180000Z
+DTEND:20170307T200000Z
+UID:20171110T055422Z-591
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the State Library of Ohio, 274 East First Avenue, Columbus, Ohio 43201. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs, and resources across state government to improve effectiveness, efficiency, and accountability. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170316T183000Z
+DTEND:20170316T193000Z
+UID:20171110T055422Z-592
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2017 Annual Action Plan Public Hearing
+DESCRIPTION:The purpose of the public hearing is to receive testimony regarding the PY 2017 Annual Action Plan. The plan outlines guidelines for programs administered by the Office of Community Development. Meeting will take place at the Vern Riffe Building, 77 South High Street, Columbus, Ohio in Room 1960 on the 19th Floor.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170324T160000Z
+DTEND:20170324T180000Z
+UID:20171110T055422Z-593
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers. The meeting will be held at the Vern Riffe Building, 77 South High Street, Columbus, Ohio in Rooms South B&C on the 31st Floor.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170323T150000Z
+DTEND:20170323T170000Z
+UID:20171110T055422Z-594
+DTSTAMP:20171110T055422Z
+SUMMARY:Local Government Innovation Council
+DESCRIPTION:The Council will review projects for funding from the Local Government Safety Capital Grants. The Council oversees programs which help communities in their efforts to promote collaboration among governments and reduce costs for the services they provide. Meeting will be held at the Vern Riffe Building, 77 South High Street, Columbus, Ohio in Room 1960 on the 19th Floor.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170329T150000Z
+DTEND:20170329T180000Z
+UID:20171110T055422Z-595
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:Meeting will be held at the Longaberger Alumni House, 2200 Olentangy River Road, Columbus, OH 43210-1035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170307T170000Z
+DTEND:20170307T200000Z
+UID:20171110T055422Z-596
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program State Plan Public Hearing
+DESCRIPTION:Vern Riffe Building, 77 South High Street, Columbus, on the 31th floor in Room South A.\nThe Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the hearing, Ohio Development Services Agency staff will take comments regarding the Program Year 2017 Home Weatherization Assistance Program State Plan. A copy of the draft Home Weatherization Assistance Program State Plan can be found at https://development.ohio.gov/is/is_hwap.htm.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T170000Z
+DTEND:20170407T180000Z
+UID:20171110T055422Z-597
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Weatherization Assistance Program Policy Advisory Committee
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Committee will meet on Friday, April 7, 2017 immediately following the HWAP State Plan Public Hearing that takes place at 12:00 p.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st floor in Room South A. The Committee provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T170000Z
+DTEND:20170407T180000Z
+UID:20171110T055422Z-598
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Weatherization Assistance Program State Plan Public Hearing
+DESCRIPTION:The Home Weatherization Assistance Program State Plan Public Hearing will be held Friday, April 7, 2017 at 12:00 p.m. until all public comments are heard. The hearing will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st floor in Room South A. The Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the hearing, Ohio Development Services Agency staff will take comments regarding the Program Year 2017 Home Weatherization Assistance Program State Plan. A copy of the draft Home Weatherization Assistance Program State Plan can be found at https://development.ohio.gov/is/is_hwap.htm.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T150000Z
+DTEND:20170517T170000Z
+UID:20171110T055422Z-599
+DTSTAMP:20171110T055422Z
+SUMMARY:Public Benefits Advisory Board Meeting
+DESCRIPTION:77 South High Street, 31st Floor, Room South B&C\nThe Public Benefits Advisory Board provides advice to the Ohio Development Services Agency Director to ensure that energy services are provided to low-income Ohioans.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170519T183000Z
+DTEND:20170519T200000Z
+UID:20171110T055422Z-600
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Advisory Committee Meeting
+DESCRIPTION:77 South High Street,19th floor, room 1948, Columbus, Ohio\nThe Community Services Block Grant Advisory Committee provides recommendations to the Ohio Development Services Agency Director regarding the state plan for the Community Services Block Grant Program.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T180000Z
+DTEND:20170427T200000Z
+UID:20171110T055422Z-601
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor in Room East B. The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170508T140000Z
+DTEND:20170508T210000Z
+UID:20171110T055422Z-602
+DTSTAMP:20171110T055422Z
+SUMMARY:2017 HWAP State Plan All Providers meeting
+DESCRIPTION:Ohio Department of Agriculture Building, 8995 E. Main Street, Reynoldsburg, Ohio\nThe Home Weatherization Assistance Program provides low-income residential energy efficiency services. During the meeting, Ohio Development Services Agency staff will review the 2017 Program Year Home Weatherization Assistance Program State Plan. Meeting topics will also include:\n* Training Updates provided by Ohio Weatherization Training Center (OWTC)\n* OCEAN updates for weatherization/Grant Application Process\n* Program updates\n* Question and Answer session
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T180000Z
+DTEND:20170510T190000Z
+UID:20171110T055422Z-603
+DTSTAMP:20171110T055422Z
+SUMMARY:Bureau of Workers’ Compensation Board of Directors Nominating Committee
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Building, 77 South High Street on the 31st floor in Room South A. The Committee will review and make recommendations to the Governor for the appointment of members to the Bureau of Workers’ Compensation Board of Directors.\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T173000Z
+DTEND:20170524T200000Z
+UID:20171110T055422Z-604
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Commission will meet on Wednesday, May 24, 2017, at 12:30 p.m. The meeting will be held at the Longaberger Alumni House, 2200 Olentangy River Road, Columbus, 43210. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170609T150000Z
+DTEND:20170609T160000Z
+UID:20171110T055422Z-605
+DTSTAMP:20171110T055422Z
+SUMMARY:The Home Weatherization Assistance Program Policy Advisory Council Meeting
+DESCRIPTION:The Home Weatherization Assistance Program Policy Advisory Council will meet on Friday, June 9, 2017 at 10:00 a.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st Floor. The Council provides recommendations to the Ohio Development Services Agency to ensure that energy services are provided to low-income consumers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170620T180000Z
+DTEND:20170620T200000Z
+UID:20171110T055422Z-607
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The meeting will be held in Westerville at The Point at Otterbein University, 60 Collegeview Road, Westerville, Ohio 43081. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs, and resources across state government to improve effectiveness, efficiency, and accountability. For more information, visit http://workforce.ohio.gov/board
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170623T140000Z
+DTEND:20170623T150000Z
+UID:20171110T055422Z-608
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Tax Credit Authority Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 S. High Street on the 31st Floor. The Ohio Tax Credit Authority is a five-member, independent board consisting of taxation and economic development professionals from throughout the state who are responsible for reviewing applications for tax credit assistance. The Authority has oversight responsibilities that include monitoring and reporting the progress of approved tax credit projects. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170629T153000Z
+DTEND:20170629T163000Z
+UID:20171110T055422Z-609
+DTSTAMP:20171110T055422Z
+SUMMARY:Draft PY 2017 Ohio National Housing Trust Fund Allocation Plan Public Hearing
+DESCRIPTION:The hearing will be held in Columbus at the Vern Riffe Center, 77 South High Street on the 19th Floor in Room 1960. The draft plan will be submitted with the PY 2017 Annual Action Plan to the U.S. Department of Housing and Urban Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170719T180000Z
+DTEND:20170719T190000Z
+UID:20171110T055422Z-610
+DTSTAMP:20171110T055422Z
+SUMMARY:The Ohio Venture Capital Authority
+DESCRIPTION:The Ohio Venture Capital Authority will meet on Wednesday, July 19, 2017 at 1:00 p.m. The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 31st floor, South B & C. The Authority oversees the activities of the Ohio Capital Fund, a portfolio of seed and early-stage capital investments. The goal of the fund is to drive entrepreneurial growth and job creation in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T150000Z
+DTEND:20170914T220000Z
+UID:20171110T055422Z-611
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Advisory Board and Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Advisory Board and Commission will meet on Thursday, September 14, 2017 at 10:00 a.m. The meeting will be held at the State of Ohio Library, 274 East 1st Avenue #100, Columbus, OH 43201. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio. The Ohio Third Frontier Advisory Board provides input to the commission relevant to advancing the goals of the programs it administers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170713T183000Z
+DTEND:20170713T200000Z
+UID:20171110T055422Z-612
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Housing and Homelessness Collaborative Meeting
+DESCRIPTION:The committee is charged with assisting the Ohio Development Services Agency in defining housing needs and priorities, recommending program updates to effectively benefit low- and moderate-income persons and advising the Agency Director on distributing money from the Ohio Housing Trust Fund.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170801T143000Z
+DTEND:20170801T160000Z
+UID:20171110T055422Z-614
+DTSTAMP:20171110T055422Z
+SUMMARY:Home Energy Assistance Program Public Hearing
+DESCRIPTION:The Home Energy Assistance Program helps low-income Ohioans meet the needs of home energy costs. During the meeting, the Ohio Development Services Agency staff will take comments regarding the Home Energy Assistance Program 2018 State Plan.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170801T160000Z
+DTEND:20170801T183000Z
+UID:20171110T055422Z-615
+DTSTAMP:20171110T055422Z
+SUMMARY:Community Services Block Grant Public Hearing
+DESCRIPTION:The hearing will provide members of the public an opportunity to comment on the 2018-2019 Community Services Block Grant State Plan and the use of Block Grant resources.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170817T180000Z
+DTEND:20170817T200000Z
+UID:20171110T055422Z-616
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held on the second floor of Cardinal Hall at the Ohio Expo Center, Cardinal Hall (717 E. 17th Avenue, Columbus, Ohio 43211). The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170808T150000Z
+DTEND:20170808T170000Z
+UID:20171110T055422Z-618
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Third Frontier Commission Meeting
+DESCRIPTION:The Ohio Third Frontier Commission will meet on Tuesday, August 8, 2017 at 10:00 a.m. The meeting will be held at Rev1 Ventures, 1275 Kinnear Rd, Columbus, OH 43212. The Ohio Third Frontier Commission coordinates and administers state science and technology programs to help maximize economic growth in Ohio.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170907T173000Z
+DTEND:20170907T200000Z
+UID:20171110T055422Z-619
+DTSTAMP:20171110T055422Z
+SUMMARY:Consolidated Plan Program Advisory Committee Meeting
+DESCRIPTION:The Consolidated Plan Program Advisory Committee will meet on Thursday, September 7, 2017 from 12:30 p.m. until 3 p.m. The meeting will be held at the Creekside Conference and Event Center, 101 Mill Street, Suite 300, Gahanna, Ohio 43230. The Program Advisory Committee will review the Program Year 2018 Consolidated Plan, which outlines program priorities for the Development Services Agency’s Office of Community Development. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T180000Z
+DTEND:20170912T200000Z
+UID:20171110T055422Z-620
+DTSTAMP:20171110T055422Z
+SUMMARY:Governor’s Executive Workforce Board Meeting
+DESCRIPTION:The meeting will be held in Columbus at the Refinery 191 Innovation Lab, 191 W. Nationwide Blvd, Columbus, Ohio 43215. The Governor’s Executive Workforce Board works to coordinate and align workforce policies, programs, and resources across state government to improve effectiveness, efficiency, and accountability. For more information, visit http://workforce.ohio.gov/Board.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T173000Z
+DTEND:20170914T180000Z
+UID:20171110T055422Z-621
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2018 Ohio Annual Action Plan Needs Hearing
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 19th floor in room 1924. The purpose of the hearing is to allow interested parties to provide comments regarding programs the Ohio Development Services Agency’s Office of Community Development administers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T180000Z
+DTEND:20170914T183000Z
+UID:20171110T055422Z-622
+DTSTAMP:20171110T055422Z
+SUMMARY:State Fiscal Year 2019 Ohio Housing Trust Fund Public Needs Hearing
+DESCRIPTION:The meeting will be held in Columbus at the Vern Riffe Center, 77 South High Street, on the 19th Floor in room 1924 immediately following the Program Year 2018 Ohio Annual Action Plan Needs Hearing (12:30 p.m.). The purpose of the hearing is to allow interested parties to provide comments regarding Ohio Housing Trust Fund programs the Ohio Development Services Agency’s Office of Community Development administers.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T160000Z
+DTEND:20171018T170000Z
+UID:20171110T055422Z-623
+DTSTAMP:20171110T055422Z
+SUMMARY:Ohio Opioid Technology Challenge Launch
+DESCRIPTION:The meeting will be held in Dublin at The Conference Center at OCLC, 6600 Kilgour Pl, Dublin OH 43017. The Ohio Opioid Technology Challenge is a prize competition seeking innovative solutions to reduce morbidity and mortality associated with opioid use and addiction by addressing prevention, treatment, and overdose response and avoidance. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T143000Z
+DTEND:20171030T203000Z
+UID:20171110T055422Z-624
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2018 Ohio Consolidated Plan Program Advisory Committee Meeting
+DESCRIPTION:The purpose of the advisory committee meetings is to receive comments regarding programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171031T143000Z
+DTEND:20171031T203000Z
+UID:20171110T055422Z-625
+DTSTAMP:20171110T055422Z
+SUMMARY:Program Year 2018 Ohio Consolidated Plan Program Advisory Committee Meeting
+DESCRIPTION:The purpose of the advisory committee meetings is to receive comments regarding programs administered by the Ohio Development Services Agency’s Office of Community Development.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T050000Z
+DTEND:20171109T050000Z
+UID:20171110T055422Z-626
+DTSTAMP:20171110T055422Z
+SUMMARY:Housing Development Assistance Program/CHDO Program Advisory Committee Meeting
+DESCRIPTION:The meeting will be part of Ohio Housing Finance Agencies 2017 Ohio Housing Conference. For more information regarding this meeting please contact Carlie Boos, Program & Policy Manager at 614.644.5650, or email at CBoos@ohiohome.org\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T180000Z
+DTEND:20171116T200000Z
+UID:20171110T055422Z-627
+DTSTAMP:20171110T055422Z
+SUMMARY:TourismOhio Advisory Board Meeting
+DESCRIPTION:The meeting will be held at the Franklin Park Conservatory, Education Pavilion (1777 E. Broad St., Columbus, Ohio 43203). The TourismOhio Advisory Board is comprised of representatives from Ohio tourism industries and assists in the promotion of distinct travel experiences in Ohio.
+END:VEVENT
+END:VCALENDAR
