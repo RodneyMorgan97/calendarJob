@@ -17,36 +17,10 @@ def getJSON():
 	req = urllib2.Request('https://www.uakron.edu/research/icorps/schedule.dot', headers=hdr)
 	page = urllib2.urlopen(req)
 	soup = BeautifulSoup(page, "html.parser")
-	event = soup.find_all("ul")
+	event = soup.find_all("div", {'class' : 'boxInfoContainer'})
 	
-	calendarEvents = []
-	calendarEvents.append(event[4].li)
-	calendarEvents.append(event[4].li.nextSibling)
 
-	for i in range (100):
-		try:
-			calendarEvents.append(event[4].li.nextSibling)
-		except:
-			break;
-	print calendarEvents
-
-	toJSON = []
-
-	for i in range (len(calendarEvents)):
-		thisEvent = calendarEvents[i]
-
-		thisDescription = thisEvent[thisEvent.find('&ndash;') : ]
-		print thisDescription
-
-
-		toJSON.append({
-	 					'website':'noche.org/modules/calendar/calendar.php',
-	 				  	'title' : '',
-	 				  	'location' : '',
-	 				  	'description' : '',
-	 				  	'date' : thisDate,
-	 				  	'time' : ''
-	 				  })
+		
 
 
 	

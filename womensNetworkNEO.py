@@ -13,6 +13,31 @@ def getJSON():
        'Accept-Encoding': 'none',
        'Accept-Language': 'en-US,en;q=0.8',
        'Connection': 'keep-alive'}
-	req = urllib2.Request('https://womensnetworkneohio.com/Events?EventViewMode=1&EventListViewMode=2', headers=hdr)
+	req = urllib2.Request('https://womensnetworkneohio.com/Events?EventViewMode=1&EventListViewMode=1', headers=hdr)
 	page = urllib2.urlopen(req)
 	soup = BeautifulSoup(page, "html.parser")
+	event = soup.find_all("div", {'class' : 'boxInfoContainer'})
+	title = soup.find_all("h4", {'class' : 'boxHeaderTitle'})
+	print 
+	toJSON = []
+
+	for i in range(len(event)):
+		date = event[i].ul.li.div.get_text()
+		date = helperFunctions.monthToNum(date[ : date.find(' ')]) + '-' + date[date.find(' ') + 1 : date.find(',')]
+		
+		time = event[i].ul.li.next_sibling.next_sibling.div.span.get_text()
+		time = time[ :time.find('-')].strip().lower().replace(' ', '')
+
+		location = event[i].ul.li.next_sibling.next_sibling.next_sibling.next_sibling.div.span.get_text()
+		
+		toJSON.append({
+	 					'website':'noche.org/modules/calendar/calendar.php',
+	 				  	'title' : title[i].get_text().replace('\n',''),
+	 				  	'location' : location,
+	 				  	'description' : '',
+	 				  	'date' : date,
+	 				  	'time' : time
+	 				  })
+
+	return toJSON
+

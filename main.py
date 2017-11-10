@@ -35,14 +35,14 @@ import womensNetworkNEO
 #print ksuCCPD.getJSON()
 #print glyphixStudio.getJSON()
 #print magnet.getJSON()
-#print neotec.getJSON() #still needs done
 #print ODSA.getJSON()
 #print aCloserLook.getJSON()
 #print noche.getJSON()
-#print iCorps.getJSON() #still needs done
 #print akronWomenInTech.getJSON()
-#print womensNetworkNEO.getJSON() #still needs done
+print womensNetworkNEO.getJSON()
 
 
 
 #print codeAkronFacebook.getJSON() #TBD
+#print iCorps.getJSON() #shouldn't be on list
+#print neotec.getJSON() #still needs done

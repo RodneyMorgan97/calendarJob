@@ -16,3 +16,5 @@ def getJSON():
 	req = urllib2.Request('http://neotec.org/site.cfm/About-NEOTEC/Upcoming-Events.cfm', headers=hdr)
 	page = urllib2.urlopen(req)
 	soup = BeautifulSoup(page, "html.parser")
+
+	
