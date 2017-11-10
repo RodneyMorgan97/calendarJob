@@ -20,10 +20,7 @@ def getJSON():
 	month = soup.find("td", {'class' : 'calendar-month'}).get_text()
 	month = month[:month.find(" ")]
 	month = helperFunctions.monthToNum(month)
-	print month
 	toJSON = []
-	print event[0].div.nextSibling.get_text().replace(event[0].b.get_text(), '')
-
 
 	for i in range(len(event)):
 		toJSON.append({
