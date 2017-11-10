@@ -31,7 +31,7 @@ def getJSON():
 		thisDate = thisDate[thisDate.find(' ') + 1 :]
 		thisDate = helperFunctions.monthToNum(thisDate[:thisDate.find(' ')]) + "-" + thisDate[thisDate.find(' ') + 1 :]
 		thisTime = dateAndTime[dateAndTime.find('\n') + 1 : ].strip().replace(' ', '').lower()
-		print thisTime
+
 		toJSON.append({
 	 					'website':'www.kent.edu/yourtrainingpartner/calendar-program-offerings',
 	 				  	'title' : title[i].get_text().strip(),
@@ -40,4 +40,4 @@ def getJSON():
 	 				  	'date' : thisDate,
 	 				  	'time' : thisTime
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON

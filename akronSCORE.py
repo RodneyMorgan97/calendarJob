@@ -28,4 +28,4 @@ def getJSON():
 						'date' : helperFunctions.monthToNum(calendarDate[0:calendarDate.find(" "):]) + "-" + calendarDate[calendarDate.find(" ") + 1 : calendarDate.find(",")],
 						'time' : time
 					  })
-	return json.dumps(toJSON)
+	return toJSON

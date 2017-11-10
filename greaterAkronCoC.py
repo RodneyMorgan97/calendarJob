@@ -41,5 +41,5 @@ def getJSON():
 	 				  	'date' : eventDate,
 	 				  	'time' : eventTime
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON
 

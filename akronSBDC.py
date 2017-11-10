@@ -33,4 +33,4 @@ def getJSON():
 	 				  })
 
 	
-	return json.dumps(toJSON)
+	return toJSON

@@ -43,7 +43,7 @@ def getJSON():
 	 				  	'date' :  date,
 	 				  	'time' : time
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON
 	
 
 		

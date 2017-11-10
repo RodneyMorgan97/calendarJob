@@ -32,4 +32,4 @@ def getJSON():
 	 				  	'time' : ''
 	 				  })
 
-	return json.dumps(toJSON)
+	return toJSON

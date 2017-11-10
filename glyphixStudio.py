@@ -35,4 +35,4 @@ def getJSON():
 	 				  	'date' : thisDate,
 	 				  	'time' : thisTime
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON

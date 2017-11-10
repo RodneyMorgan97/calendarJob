@@ -50,5 +50,5 @@ def getJSON():
 	 				  	'time' : thisTime
 	 				  })
 
-	return json.dumps(toJSON)
+	return toJSON
 

@@ -18,7 +18,7 @@ def getJSON():
 	soup = BeautifulSoup(page, "html.parser")
 	event = soup.find_all("div", {'class' : 'boxInfoContainer'})
 	title = soup.find_all("h4", {'class' : 'boxHeaderTitle'})
-	print 
+
 	toJSON = []
 
 	for i in range(len(event)):

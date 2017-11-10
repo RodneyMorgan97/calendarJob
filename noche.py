@@ -41,4 +41,4 @@ def getJSON():
 	 				  	'date' : thisDate,
 	 				  	'time' : time
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON

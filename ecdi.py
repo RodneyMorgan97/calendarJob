@@ -40,7 +40,7 @@ def getJSONAkron():
 						'time' : thisTime
 					 })
 		
-	return json.dumps(toJSON)
+	return toJSON
 
 def getJSONCleveland():
 	page = urllib2.urlopen('https://www.ecdi.org/events/cleveland')
@@ -79,7 +79,7 @@ def getJSONCleveland():
 						'time' : thisTime
 					 })
 		
-	return json.dumps(toJSON)
+	return toJSON
 
 def getJSONColumbus():
 	page = urllib2.urlopen('https://www.ecdi.org/events/columbus')
@@ -118,7 +118,7 @@ def getJSONColumbus():
 						'time' : thisTime
 					 })
 		
-	return json.dumps(toJSON)
+	return toJSON
 
 def getJSONToledo():
 	page = urllib2.urlopen('https://www.ecdi.org/events/toledo')
@@ -157,4 +157,4 @@ def getJSONToledo():
 						'time' : thisTime
 					 })
 		
-	return json.dumps(toJSON)
+	return toJSON

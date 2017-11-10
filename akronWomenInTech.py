@@ -32,4 +32,4 @@ def getJSON():
 	 				  	'date' : thisDate,
 	 				  	'time' : event[i].a.span.get_text().replace(' ','').lower()
 	 				  })
-	return json.dumps(toJSON)
+	return toJSON
