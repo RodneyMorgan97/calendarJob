@@ -1,9 +1,9 @@
-import urllib2
 import json
-import helperFunctions
+
 import akronSBDC
 import akronSCORE
 import codeAkronFacebook
+import ohioMeansJobs
 import ecdi
 import greaterAkronCoC
 import glide
@@ -13,20 +13,23 @@ import launchNET
 import ksuCCPD
 import glyphixStudio
 import magnet
-#import neotec
+import neotec
 import ODSA
 import aCloserLook
 import noche
 import iCorps
 import akronWomenInTech
+import womensNetworkNEO
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
+#print codeAkronFacebook.getJSON() #still needs done
+#print ohioMeansJobs.getJSON() # still needs done
 #print ecdi.getJSONAkron()
 #print ecdi.getJSONColumbus()
 #print ecdi.getJSONCleveland()
 #print ecdi.getJSONToledo()
 #print goodwill.getJSON()
-#greaterAkronCoC.getJSON() #still needs done
+#print greaterAkronCoC.getJSON()
 #print glide.getJSON()
 #print jumpstart.getJSON()
 #print launchNET.getJSON()
@@ -38,4 +41,5 @@ import akronWomenInTech
 #print aCloserLook.getJSON() #still needs done
 #print noche.getJSON()
 #print iCorps.getJSON() #still needs done
-print akronWomenInTech.getJSON()
+#print akronWomenInTech.getJSON()
+#print womensNetworkNEO.getJSON() #still needs done

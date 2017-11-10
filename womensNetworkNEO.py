@@ -1,4 +1,4 @@
-#source 23
+#source 28
 
 from bs4 import BeautifulSoup
 import urllib2
@@ -13,13 +13,6 @@ def getJSON():
        'Accept-Encoding': 'none',
        'Accept-Language': 'en-US,en;q=0.8',
        'Connection': 'keep-alive'}
-	req = urllib2.Request('https://www.summitartspace.org/calendar/', headers=hdr)
+	req = urllib2.Request('https://womensnetworkneohio.com/Events?EventViewMode=1&EventListViewMode=2', headers=hdr)
 	page = urllib2.urlopen(req)
 	soup = BeautifulSoup(page, "html.parser")
-	title = soup.find_all("")	
-	event = soup.find_all("div", {'class' : 'css-events-list' } )
-
-	print event[0].a.get_text()
-
-	for i in range (len(event)):
-		return

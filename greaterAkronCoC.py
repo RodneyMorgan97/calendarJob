@@ -20,10 +20,26 @@ def getJSON():
 	soup = BeautifulSoup(page, "html.parser")
 	event = soup.find_all("div", {'class' : 'cal-item'})
 
+	
+	toJSON = []
 
-	title = []
-	location = []
-	description =[]
-	date = []
+	for i in range(len(event)):
+		thisEvent = str(event[i].a['data-ot']).replace('<strong>' , '').replace('</strong>', '').replace('<br />', '')
+		eventName = thisEvent[:thisEvent.find('\n')]
+		thisEvent = thisEvent.replace(eventName + '\n', '')
+		dateAndTime = thisEvent.replace('Date: ', '')
+		eventDate = dateAndTime[ : dateAndTime.find(' ') -5].replace('/','-')
+		eventTime = dateAndTime[dateAndTime.find(' ') + 1 : dateAndTime.find('\n')].replace(' ','').lower()
+		eventTime = eventTime[ : len(eventTime) - 5] + eventTime[len(eventTime) - 2 : ]
+		location = dateAndTime[dateAndTime.find('\n') + 1 :].replace('Location: ', '')
 
-	print event
+		toJSON.append({
+	 					'website':'http://www.greaterakronchamber.org/Connect/Events',
+	 				  	'title' : thisEvent,
+	 				  	'location' : location,
+	 				  	'description' : '',
+	 				  	'date' : eventDate,
+	 				  	'time' : eventTime
+	 				  })
+	return json.dumps(toJSON)
+
