@@ -13,9 +13,12 @@ import launchNET
 import ksuCCPD
 import glyphixStudio
 import magnet
+#import neotec
 import ODSA
 import aCloserLook
 import noche
+import iCorps
+import akronWomenInTech
 #print akronSBDC.getJSON()
 #print akronSCORE.getJSON()
 #print ecdi.getJSONAkron()
@@ -30,6 +33,9 @@ import noche
 #print ksuCCPD.getJSON()
 #print glyphixStudio.getJSON()
 #print magnet.getJSON()
-#print DSA.getJSON()
+#print neotec.getJSON() #still needs done
+#print ODSA.getJSON()
 #print aCloserLook.getJSON() #still needs done
 #print noche.getJSON()
+#print iCorps.getJSON() #still needs done
+print akronWomenInTech.getJSON()
