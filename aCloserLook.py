@@ -17,9 +17,33 @@ def getJSON():
 	page = urllib2.urlopen(req)
 	soup = BeautifulSoup(page, "html.parser")
 	title = soup.find_all("")	
-	event = soup.find_all("div", {'class' : 'css-events-list' } )
+	event = soup.find_all("div", {'class' : 'css-events-list' })
+	
 
-	print event[0].a.get_text()
+	allTBody = event[0].find_all('tbody')
 
-	for i in range (len(event)):
-		return
+	toJSON = []
+
+	for tBody in allTBody:
+		for tR in tBody:
+			dateAndTime = tR.td.get_text()
+			title = tR.td.next_sibling.next_sibling.a.get_text()
+			location = tR.td.next_sibling.next_sibling.i.get_text()
+			dateAndTime = dateAndTime.strip()
+			date = dateAndTime[:5].replace('/', '-')
+			time = dateAndTime[dateAndTime.find('\n') + 1 : ].strip()
+			time = time[ : time.find('-')].strip().replace(' ','')
+
+
+			toJSON.append({
+	 					'website':'https://www.summitartspace.org/calendar/',
+	 				  	'title' : title,
+	 				  	'location' : location,
+	 				  	'description' : '',
+	 				  	'date' :  date,
+	 				  	'time' : time
+	 				  })
+
+	
+
+		
