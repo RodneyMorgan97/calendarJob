@@ -1,12 +1,10 @@
 import json
-
 import akronSBDC
 import akronSCORE
 import ohioMeansJobs
 import ecdi
 import greaterAkronCoC
 import glide
-import goodwill
 import jumpstart
 import launchNET
 import ksuCCPD
@@ -18,12 +16,38 @@ import akronWomenInTech
 import womensNetworkNEO
 import os
 from flask import jsonify
+from flask import Flask
+app = Flask(__name__)
 
 fullJSON = []
 
+@app.route('/update_calendar')
+def update_calendar():
+	
+	akronSBDC_ = akronSBDC.getJSON()
+	akronSCORE_ = akronSCORE.getJSON()	
+	ohioMeansJobs_ = ohioMeansJobs.getJSON()
+	ecdiAkron_ = ecdi.getJSONAkron()
+	ecdiCleveland_ = ecdi.getJSONCleveland()
+	greaterAkronCoC_ = greaterAkronCoC.getJSON()
+	glide_ = glide.getJSON()
+	jumpstart_ = jumpstart.getJSON()
+	launchNET_ = launchNET.getJSON()
+	ksuCCPD_ = ksuCCPD.getJSON()
+	glyphixStudio_ = glyphixStudio.getJSON()
+	magnet_ = magnet.getJSON()
+	aCloserLook_ = aCloserLook.getJSON() #ask about commenting this one out
+	noche_ = noche.getJSON()
+	akronWomenInTech_ = akronWomenInTech.getJSON()
+	womensNetworkNEO_ = womensNetworkNEO.getJSON()
+	
 
-from flask import Flask
-app = Flask(__name__)
+	fullJSON = filterJSON(akronSBDC_, akronSCORE_,ohioMeansJobs_,ecdiAkron_, ecdiCleveland_, greaterAkronCoC_, glide_, jumpstart_, launchNET_, ksuCCPD_, glyphixStudio_, magnet_, aCloserLook_, noche_, akronWomenInTech_, womensNetworkNEO_)
+
+	with open('calendarJSON.json', 'w') as outfile:
+		json.dump(fullJSON, outfile)
+
+	return 'Updated'
 
 @app.route('/get_calendar')
 def get_calendar():
@@ -31,36 +55,58 @@ def get_calendar():
 	json_url = os.path.join(SITE_ROOT, "calendarJSON.json")
 	data = jsonify(json.load(open(json_url)))
 	return data
-	
 
-@app.route('/update_calendar')
-def update_calendar():
-	fullJSON.append(akronSBDC.getJSON())
-	fullJSON.append(akronSCORE.getJSON())
-	fullJSON.append(ohioMeansJobs.getJSON())
-	fullJSON.append(ecdi.getJSONAkron())
-	fullJSON.append(ecdi.getJSONColumbus())
-	fullJSON.append(ecdi.getJSONCleveland())
-	fullJSON.append(ecdi.getJSONToledo())
-	fullJSON.append(goodwill.getJSON())
-	fullJSON.append(greaterAkronCoC.getJSON())
-	fullJSON.append(glide.getJSON())
-	fullJSON.append(jumpstart.getJSON())
-	fullJSON.append(launchNET.getJSON())
-	fullJSON.append(ksuCCPD.getJSON())
-	fullJSON.append(glyphixStudio.getJSON())
-	fullJSON.append(magnet.getJSON())
-	fullJSON.append(aCloserLook.getJSON())
-	fullJSON.append(noche.getJSON())
-	fullJSON.append(akronWomenInTech.getJSON())
-	fullJSON.append(womensNetworkNEO.getJSON())
-	with open('calendarJSON.json', 'w') as outfile:
-		json.dump(fullJSON, outfile)
+def filterJSON(one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen):
+	filteredJSON = []
 
-	return 'calendar has been updated'
+	if (one):
+		filteredJSON.append(one)
+
+	if (two):
+		filteredJSON.append(two)
+
+	if (three):
+		filteredJSON.append(three)
+
+	if (four):
+		filteredJSON.append(four)
+
+	if (five):
+		filteredJSON.append(five)
+
+	if (six):
+		filteredJSON.append(six)
+
+	if (seven):
+		filteredJSON.append(seven)
+
+	if (eight):
+		filteredJSON.append(eight)
+
+	if (nine):
+		filteredJSON.append(nine)
+
+	if (ten):
+		filteredJSON.append(ten)
+
+	if (eleven):
+		filteredJSON.append(eleven)
+
+	if (twelve):
+		filteredJSON.append(twelve)
+
+	if (thirteen):
+		filteredJSON.append(thirteen)
+
+	if (fourteen):
+		filteredJSON.append(fourteen)
+
+	if (fifteen):
+		filteredJSON.append(fifteen)
+
+	if (sixteen):
+		filteredJSON.append(sixteen)
+
+	return filteredJSON
 
 
-#print codeAkronFacebook.getJSON() #TBD
-#print iCorps.getJSON() #shouldn't be on list
-#print neotec.getJSON() #still needs done
-# fullJSON.append(ODSA.getJSON())
